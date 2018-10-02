@@ -1,0 +1,169 @@
+# Translation into German 
+# Author: Julius Deutsch
+# Sourceforge developer: N/A
+# Email:j.deutsch@kommhelp.de
+# Date: 03.12.2015
+# Comments: translation to German. No comments required.
+#
+
+LANG_NAME=Deutsch
+ 
+// Common
+ERROR=Fehler
+WARNING=Hinweis
+INFO=Information
+OK=OK
+CANCEL=Abbrechen
+CLOSE=Schließen
+ 
+// Menus
+ 
+FILE_MENU=Datei
+FILE_MENU_NEW=Neu
+FILE_MENU_LOAD=Öffnen
+FILE_MENU_SAVE=Speichern
+FILE_MENU_SAVE_AS=Speichern unter …
+FILE_MENU_EXPORT=Exportieren als …
+FILE_MENU_EXIT=Verlassen
+ 
+EDIT_MENU=Bearbeiten
+EDIT_MENU_UNDO=Rückgängig machen
+EDIT_MENU_REDO=Wiederholen
+EDIT_MENU_CUT=Ausschneiden
+EDIT_MENU_COPY=Kopieren
+EDIT_MENU_PASTE=Einfügen
+EDIT_MENU_FIND=Suche
+EDIT_MENU_SELECT_ALL=Alles auswählen
+ 
+TEXT_MENU=Text
+TEXT_MENU_FONT=Schriftart
+TEXT_MENU_COLOR=Farbe
+TEXT_MENU_PLACEMENT=Platzierung
+TEXT_MENU_PLACEMENT_ABOVE_PICTOGRAM=Oberhalb Pictogramm
+TEXT_MENU_PLACEMENT_BELOW_PICTOGRAM=Unterhalb Pictogramm
+TEXT_MENU_TO_UPPER_CASE=Text in Großbuchstaben
+TEXT_MENU_TO_UPPER_CASE_ACTIVE_ELEMENT=Aktives Element
+TEXT_MENU_TO_UPPER_CASE_ALL_ELEMENTS=Alle Elemente
+TEXT_MENU_TO_LOWER_CASE=Text in Kleinbuchstaben
+TEXT_MENU_TO_LOWER_CASE_ACTIVE_ELEMENT=Aktives Element
+TEXT_MENU_TO_LOWER_CASE_ALL_ELEMENTS=Alle Elemente
+TEXT_MENU_DOCUMENT_LANGUAGE=Sprache des Dokuments
+ 
+PICTOGRAMS_MENU=Piktogramm
+PICTOGRAMS_MENU_SIZE=Größe
+PICTOGRAMS_MENU_NEXT_IMAGE=Nächstes Bild
+PICTOGRAMS_MENU_COMPOUND_SPLIT_WORD=Wort zusammensetzen/aufspalten
+PICTOGRAMS_MENU_CHANGE_NAME=Name ändern
+PICTOGRAMS_MENU_HIDE=Verbergen …
+PICTOGRAMS_MENU_HIDE_BORDER=Rand
+PICTOGRAMS_MENU_HIDE_BORDER_ACTIVE_ELEMENT=des aktuellen Elements
+PICTOGRAMS_MENU_HIDE_BORDER_ALL_ELEMENTS=aller Elemente
+PICTOGRAMS_MENU_HIDE_IMAGE=Bild
+PICTOGRAMS_MENU_HIDE_IMAGE_ACTIVE_ELEMENT=des aktuellen Elements
+PICTOGRAMS_MENU_HIDE_IMAGE_ALL_ELEMENTS=aller Elemente
+PICTOGRAMS_MENU_SHOW=Zeige …
+PICTOGRAMS_MENU_SHOW_BORDER=Rahmen
+PICTOGRAMS_MENU_SHOW_BORDER_ACTIVE_ELEMENT=des aktuellen Elements
+PICTOGRAMS_MENU_SHOW_BORDER_ALL_ELEMENTS=aller Elemente
+PICTOGRAMS_MENU_SHOW_IMAGE=Bild
+PICTOGRAMS_MENU_SHOW_IMAGE_ACTIVE_ELEMENT=des aktuellen Elements
+PICTOGRAMS_MENU_SHOW_IMAGE_ALL_ELEMENTS=aller Elemente
+PICTOGRAMS_MENU_GRAYSCALE=Grauskala
+ 
+TOOLS_MENU=Werkzeuge
+TOOLS_MENU_RESOURCE_MANAGER=Ressourcenmanagaer
+TOOLS_MENU_ADD_IMAGE=Bild zufügen
+TOOLS_MENU_EXPORT_DATABASE=Exportieren als DB
+TOOLS_MENU_IMPORT_DATABASE=Importieren DB
+TOOLS_MENU_FIND_IMAGE=Bild bearbeiten
+TOOLS_MENU_GENERAL_PREFERENCES=Allgemeine Voreinstellungen
+ 
+HELP_MENU=Hilfe
+HELP_MENU_SHOW_HELP=Hilfe anzeigen
+HELP_MENU_ABOUT=Über …
+ 
+// Inner ones
+ 
+FILE_MENU_NEW_WARNING_DISCARD=Soll das Dokument wirklich verworfen werden?
+FILE_MENU_SAVE_UNABLE_SAVE_EMPTY_FILE=Kann keine leere Datei speichern.
+FILE_MENU_EXIT_WARNING=Wollen Sie wirklich beenden?
+ 
+EDIT_MENU_UNDO_UNABLE_MORE_UNDO=Keine weitere Wiederherstellung möglich.
+EDIT_MENU_REDO_UNABLE_MORE_REDO=Keine weitere Wiederholung möglich.
+EDIT_MENU_CUT_UNABLE_CUT_ALL=Kann nicht gesamten Text ausschneiden.\n Bitte mindestens ein Wort unmarkiert lassen vor dem Ausschneiden.\n
+EDIT_MENU_FIND_UNABLE_EMPTY_STRING_SEARCH=Bitte Suchtext eingeben.\n 
+EDIT_MENU_FIND_NOT_FOUND_TEXT=Text wurde nicht gefunden\n
+ 
+GENERAL_PREFERENCES_DIALOG_TITLE=Allgemeine Voreinstellungen
+DOCUMENT_PREFERENCES_DIALOG_TITLE=Voreinstellungen des Dokuments
+ABOUT_DIALOG_TITLE=Über AraWord
+ 
+GENERAL_PREFERENCES_DIALOG_APPLICATION_LANGUAGE_LABEL=Sprachauswahl
+GENERAL_PREFERENCES_DIALOG_DOCUMENT_LANGUAGE_LABEL=Sprache des Dokuments
+GENERAL_PREFERENCES_DIALOG_IMAGES_SIZE_LABEL=Größe der Bilder
+GENERAL_PREFERENCES_DIALOG_MAX_LENGTH_COMPOUND_WORDS_LABEL=Max. Länge Autocompound
+GENERAL_PREFERENCES_DIALOG_MAX_UNDO_LEVEL_LABEL=Max. Zahl Aktionen rückgängig machen
+GENERAL_PREFERENCES_DIALOG_PICTOGRAMS_PATH_LABEL=Pfad zu Pictgrammen
+GENERAL_PREFERENCES_DIALOG_PICTOGRAMS_PATH_CHOOSE_BUTTON=Auswählen
+GENERAL_PREFERENCES_DIALOG_TEXT_FONT_LABEL=Schriftart
+GENERAL_PREFERENCES_DIALOG_TEXT_FONT_CHOOSE_BUTTON=Auswählen
+GENERAL_PREFERENCES_DIALOG_TEXT_COLOR_LABEL=Textfarbe
+GENERAL_PREFERENCES_DIALOG_TEXT_COLOR_CHOOSE_BUTTON=Auswählen
+GENERAL_PREFERENCES_DIALOG_TEXT_PLACEMENT_LABEL=Platzierung Text
+GENERAL_PREFERENCES_DIALOG_IMAGES_COLOR_LABEL=Graustufen
+ 
+DOCUMENT_LANGUAGE_DIALOG_TITLE=Sprache des Dokuments
+DOCUMENT_LANGUAGE_DIALOG_DOCUMENT_LANGUAGE_LABEL=Sprache des Dokuments
+ 
+IMAGES_SIZE_DIALOG_TITLE=Bildgröße
+IMAGES_SIZE_DIALOG_IMAGES_SIZE_LABEL=Bildgröße
+
+IMAGES_COLOR_DIALOG_TITLE=Grauskala
+IMAGES_COLOR_DIALOG_IMAGES_COLOR_LABEL=Stufen
+
+UNABLE_DELETE_ALL_TEXT=Kann nicht gesamten Text löschen
+ARAWORD_DOCUMENTS=AraWord-Dokumente
+PDF_FILES=PDF-Datei
+BMP_FILES=BMP-Datei
+JPG_FILES=JPG-Datei
+
+SPINNER_TEXT_BELOW_PICTOGRAM=Unterhalb Pictogramm
+SPINNER_TEXT_ABOVE_PICTOGRAM=Oberhalb Pictogramm
+
+// About dialog
+
+TAboutDialog.DEVELOPERS=Entwickler
+TAboutDialog.DIRECTOR=Direktor
+TAboutDialog.COLLABORATORS=Mitarbeiter
+TAboutDialog.ORGANIZATIONS=Organisationen
+TAboutDialog.YEAR=Jahr
+TAboutDialog.LICENSE=Lizenz
+
+// Related to conjugated databases	
+VERB_DATABASE_CREATION_MESSAGE=Konjugierte Verben-Datenbank wird erstellt. Warten Sie auf die nächste Meldung..
+VERB_DATABASE_CREATION_MESSAGE_END=Abgeschlossen. Jetzt können Sie 'konjugierte Verben' verwenden.
+
+#Konjugierte Verben- Datenbank wird vorhanden. Warten Sie auf die nächste Nachricht.
+#Beendet. Jetzt können Sie 'konjugierte Verben' verwendet
+
+//NEW. en otros idiomas añadir PO al comiezo del texto (pending Of Translation)
+FILE_MENU_EXPORT_IMAGE=Bitmap
+FILE_MENU_EXPORT_PDF=PDF
+EXPORT_PDF_DIALOG_TITLE=Exportieren als PDF
+EXPORT_PDF_BUTTON=Exportieren als PDF
+EXPORT_PDF_PICTOS_LINE=Anzahl Bilder pro Zeile
+EXPORT_PDF_ARASAAC_LICENSE=ARASAAC-Lizenz zufügen
+EXPORT_PDF_LANDSCAPE=Querformat
+EXPORT_PDF_PAGE=Seite
+EXPORT_PDF_PREVISUALIZATION=Vorschau
+EXPORT_PDF_LICENCIA=Autor Pictos: Sergio Palao. Herkunft: ARASAAC (http://catedu.es/arasaac/). Lizenz: CC(BY-NC-SA)
+EXPORT_PDF_LICENCIA2=Erzeugt mit AraWord: http://sourceforge.net/projects/arasuite/
+TOOLS_MENU_VOICE_SINTESYS=Stimm-Synthese
+ESPERA=Warte
+
+//----------------------------------------------------
+//Import custom picto
+//----------------------------------------------------
+CUSTOM.DESEA_ADD_PICTO=Soll dieses neue Bild hinzugefügt werden?
+CUSTOM.IMPORTAR=Importieren
+CUSTOM.RECHAZAR=Ablehnen

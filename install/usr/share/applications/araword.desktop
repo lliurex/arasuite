@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=AraWord
+Comment=Pictogram Text Editor
+Comment[es]=Editor de textos con pictogramas
+Comment[ca_ES@valencia]=Editor de textos amb pictogrames
+Comment[ca_ES-UTF8@valencia]=Editor de textos amb pictogrames
+Comment[ca]=Editor de textos amb pictogrames
+TryExec=/usr/bin/arawordlauncher.sh
+Exec=/usr/bin/arawordlauncher.sh
+Terminal=false
+Icon=araword2.2.4
+Type=Application
+GenericName=AraWord
+Categories=Education;

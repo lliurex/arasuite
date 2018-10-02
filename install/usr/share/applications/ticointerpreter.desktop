@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Tico Interpreter
+Name[es]=Intérprete de Tico
+Name[ca]=Intèrpret del Tico
+Name[qcv]=Intèrpret del Tico
+Comment=Interactive Grid Interpreter
+Comment[es]=Intérprete de tableros interactivos
+Comment[qcv]=Intèrpret de taulers interactius
+Comment[ca]=Intèrpret de taulers interactius
+TryExec=/usr/bin/ticointerpreterlauncher.sh
+Exec=/usr/bin/ticointerpreterlauncher.sh
+Terminal=false
+Icon=tico2.2.4
+Type=Application
+GenericName=Tico
+Categories=Education;

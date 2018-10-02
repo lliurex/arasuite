@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=GalleryManager
+Comment=Pictogram Gallery Manager
+Comment[es]=Admiministra la galeria de pictogramas
+Comment[ca_ES@valencia]=Administra la galeria de pictogrames
+Comment[ca_ES-UTF8@valencia]=Administra la galeria de pictogrames
+Comment[ca]=Administra la galeriad de pictogrames
+TryExec=/usr/bin/gallerymanagerlauncher.sh
+Exec=/usr/bin/gallerymanagerlauncher.sh
+Terminal=false
+Icon=arasuite2.2.4
+Type=Application
+GenericName=GalleryManager
+Categories=Education;

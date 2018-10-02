@@ -1,0 +1,607 @@
+# Translation to German
+# Author: Julius Deutsch
+# Sourceforge developer: <DEVELOPER ID AT SOURCEFORGE.NET>
+# Email: j.deutsch@kommhelp.de
+# Date: 03.12.2015
+# Comments: <COMMENTS>
+#
+
+LANG_NAME=Deutsch
+
+// Common
+ERROR=Fehhler
+WARNING=Hinweis
+INFO=Information
+
+// tico
+TLauncher.NOT_EXIST_FILE_ERROR=Problem beim Öffnen des Projekts, die Datei wurde nicht gefunden
+TLauncher.INVALID_FILE_ERROR=Problem beim Öffnen des Projekts, die Datei ist kein TICO-Projekt
+
+// tico.board.components
+TCellView.INSERT_INTO=Einfügen in
+TLabel.DEFAULT_TEXT=Etikett
+TTextArea.DEFAULT_TEXT=Textbereich
+
+// tico.components
+TBackgroundSelectionPanel.TITLE=Hintergrund
+TBackgroundSelectionPanel.COLOR=Farbe
+TBackgroundSelectionPanel.GRADIENT=Gradient
+
+TBoardOrderPanel.TITLE=Reihenfolge
+TBoardOrderPanel.WITHOUT_ORDER=Ungeordnet
+TBoardOrderPanel.WITH_ORDER=Geordnet
+TBoardOrderPanel.ADD_TO_ORDER_TOOLTIP=Zur Suchliste hinzufügen
+TBoardOrderPanel.REMOVE_FROM_ORDER_TOOLTIP=Aus der Scan-Liste entfernen
+
+TBorderSelectionPanel.TITLE=Umandung
+TAnotherBorderSelectionPanel.TITLE=Scanning-Effekte
+TBorderSelectionPanel.COLOR=Farbe
+TBorderSelectionPanel.SIZE=Größe
+
+TClickCellActionsPanel.TITLE=Aktionen
+TClickCellActionsPanel.GO_TO=Gehe zu
+TClickCellActionsPanel.ACCUMULATE_CELL=Zellen akumulieren
+
+TClickControllerCellActionsPanel.TITLE=Aktionen
+
+TColorComboBox.CHOOSE_BACKGROUND_COLOR=Wählen Sie eine Hintergrundfarbe
+TColorComboBox.COLOR=Farbe
+TColorComboBox.TRANSPARENT=Trans
+TColorComboBox.OTHER=Anderer
+
+TFontModelChooser.TITLE=Font
+TFontModelChooser.SAMPLE_TEXT=
+TFontModelChooser.COLOR=Farbe
+TFontModelChooser.SIZE=Größe
+TFontModelChooser.BOLD=Fett
+TFontModelChooser.ITALIC=Kursiv
+
+TGridOrderPanel.TITLE=Reihenfolge
+TGridOrderPanel.ORDER_SEQUENTIAL=Sequentiell
+TGridOrderPanel.ORDER_COLUMNS=Spalten
+TGridOrderPanel.ORDER_ROWS=Reihen
+TGridOrderPanel.ORDER_CUSTOM=Personalisiert
+
+TImageChooser.TITLE=Bild 
+TImageChooser.TOP_TEXT_TOOLTIP=Text über dem Bild
+TImageChooser.CENTER_TEXT_TOOLTIP=Text zentriert im Bild
+TImageChooser.BOTTOM_TEXT_TOOLTIP=Text unter dem Bild
+TImageChooser.CENTER_RESIZE_TOOLTIP=Zentrieren
+TImageChooser.SCALE_RESIZE_TOOLTIP=Größe anpassen
+TImageChooser.FIT_RESIZE_TOOLTIP=Angepasst
+TImageChooser.BUTTON_SELECT=Auswählen
+TImageChooser.BUTTON_CLEAR=Löschen
+TImageChooser.BUTTON_OPEN=Galerie öffnen
+TImageChooser.PREVIEW_EMPTY=Leer
+TImageChooser.CHOOSE_IMAGE=Wählen Sie ein Bild aus
+TImageChooser.CHOOSE_IMAGE_ERROR=Problem beim Öffnen des Bilds
+
+TInitialBoardSelectionPanel.TITLE=Start-Bord
+TInitialBoardSelectionPanel.INITIAL_BOARD=Start-Bord
+
+TLineSelectionPanel.TITLE=Linie
+TLineSelectionPanel.COLOR=Farbe
+TLineSelectionPanel.SIZE=Größe
+
+TOrderList.UP_TOOLTIP=Nach oben
+TOrderList.DOWN_TOOLTIP=Nach unten
+
+TSendTextChooser.TITLE=Text senden
+TSendTextChooser.SEND=Senden
+TSendTextChooser.TO=nach
+TSendTextChooser.DURING=während
+TSendTextChooser.SECONDS=sek
+
+TSizeChooser.TITLE=Größe
+TSizeChooser.WIDTH=Breite
+TSizeChooser.HEIGHT=Höhe anpassen
+
+TSoundChooser.TITLE=Sound
+TAnotherSoundChosser.TITLE=Scan-Sound
+TSoundChooser.NAME=Name
+TSoundChooser.PLAY_TOOLTIP=Abspielen
+TSoundChooser.STOP_TOOLTIP=Stop
+TSoundChooser.BUTTON_SELECT=Auswählen
+TSoundChooser.BUTTON_CLEAR=Löschen
+TSoundChooser.INVALID_FORMAT_ERROR=Unbekanntes Format des Soundfiles
+TSoundChooser.PLAY_FAILURE_ERROR=Problem beim Abspielen des Sounds
+TSoundChooser.OPEN_FILE_ERROR=Problem beim Öffnen des Soindfiles
+TSoundChooser.CHOOSE_SOUND=Wählen Sie einen Sound-File aus
+TSoundChooser.RECORD=Aufzeichnen
+
+TRecordSound.SAVE=Speichern
+TRecordSound.PLAY=Abspielen
+TRecordSound.RECORD=Aufzeichnen
+TRecordSound.PAUSE=Pause
+TRecordSound.STOP=Stop
+TRecordSound.RESUME=Fortsetzen
+TRecordSound.EXIT=Verlassen
+TRecordSound.TITLE=Audiofile speichern
+
+TVideoChooser.TITLE=Video
+TVideoChooser.NAME=Datei
+TVideoChooser.URL=URL
+TVideoChooser.BUTTON_SELECT=Auswählen
+TVideoChooser.BUTTON_INSERT_URL=Einführen
+TVideoChooser.BUTTON_CLEAR=Löschen
+TVideoChooser.OPEN_FILE_ERROR=Problem beim Abspielen des Videos
+TVideoChooser.CHOOSE_VIDEO=Wählen Sie ein Video aus
+TVideoChooser.INSERT_URL_VIDEO=URL des Videos einführen
+TVideoChooser.INSERT_URL_ACCEPT=Zustimmen
+
+TTextAlignSelectorPanel.TITLE=Ausrichtung
+TTextAlignSelectorPanel.LEFT_HALIGN_TOOLTIP=Linksbündig
+TTextAlignSelectorPanel.CENTER_HALIGN_TOOLTIP=Zentriert
+TTextAlignSelectorPanel.RIGHT_HALIGN_TOOLTIP=Rechtsbündig
+TTextAlignSelectorPanel.TOP_VALIGN_TOOLTIP=Nach oben ausrichten
+TTextAlignSelectorPanel.CENTER_VALIGN_TOOLTIP=Zentriert
+TTextAlignSelectorPanel.BOTTOM_VALIGN_TOOLTIP=Nach unten ausrichten
+
+// tico.components.resources
+BoardFilter.DESCRIPTION=Tico Bords
+CustomFilter.DESCRIPTION=Dateien
+ImageFilter.DESCRIPTION=Bild-Dateien
+ProjectFilter.DESCRIPTION=Tico Projekte
+SoundFilter.DESCRIPTION=Soundfiles
+VideoFilter.DESCRIPTION=Video-Datei
+TicoFilter.DESCRIPTION=Tico Dateien
+
+// tico.editor
+TEditor.EDITOR_WINDOW_TITLE=Tico Editor
+TEditor.CELL_ORDER=Reihenfolge der Zellen
+
+TEditorMenuBar.FILE_MENU=Datei
+TEditorMenuBar.EXPORT_MENU=Exportieren
+TEditorMenuBar.EDIT_MENU=Editieren
+TEditorMenuBar.VIEW_MENU=Ansicht
+TEditorMenuBar.TOOLS_MENU=Werkzeuge
+TEditorMenuBar.BOARD_MENU=Bord
+TEditorMenuBar.PROJECT_MENU=Projekt
+TEditorMenuBar.HELP_MENU=Hilfe
+TEditorMenuBar.BOARD=Bord
+TEditorMenuBar.TO_PNG=nach PNG
+TEditorMenuBar.TO_JPG=nach JPG
+TEditorMenuBar.VALIDATION_MENU=Validierung
+TEditorMenuBar.VALIDATE_MENU=Validieren
+TEditorMenuBar.ADMIN_MENU=Verwalten
+TEditorMenuBar.DYNAMIC_MENU=Utilities
+
+// tico.editor.actions
+TAddGridCellAction.NAME=Zelle hinzufügen
+TAddGridCellAction.CHOOSE_POSITION=Wählen Sie eine neue Position für die Zelle:
+TAddGridCellAction.POSITION=Position
+
+TBoardDeleteAction.NAME=Bord löschen
+TBoardDeleteAction.NO_BOARD_ERROR=Um ein Bord zu löschen muss es vorher ausgewählt sein.
+TBoardDeleteAction.INITIAL_BOARD=Das oberste Bord kann nicht gelöscht werden
+TBoardDeleteAction.CONFIRM_DELETE_BEGIN=Sie sind dabei, das Bord zu löschen.
+TBoardDeleteAction.CONFIRM_DELETE_END=diese Aktion kann nicht rückgängig gemacht werden.
+TBoardDeleteAction.CONFIRM_DELETE_QUESTION=Sind Sie sicher?
+TBoardDeleteAction.CONFIRM_DELETE_DELETE=Gelöscht
+
+TBoardExportAction.NAME=Bord exportieren
+TBoardExportAction.NO_BOARD_ERROR=Um ein Bord zu exportieren muss es vorher ausgewählt werden.
+TBoardExportAction.CHOOSE_EXPORT_BOARD=Bord exportieren
+TBoardExportAction.CHOOSE_FILE_EXISTS=Die gewählte Datei besteht bereits.
+TBoardExportAction.CHOOSE_FILE_EXISTS_QUESTION=Soll das Bord überschrieben werden?
+TBoardExportAction.CHOOSE_FILE_OVERWRITE=Überschreiben
+TBoardExportAction.EXPORT_ERROR=Problem beim Exportieren des Bords
+
+TBoardExportImageAction.NAME=Exportieren nach 
+TBoardExportImageAction.NO_BOARD_ERROR=Zum Exportieren muss zuerst ein Bord ausgewählt sein.
+TBoardExportImageAction.CHOOSE_FILE_EXISTS=Die gewählte Datei besteht bereits.
+TBoardExportImageAction.CHOOSE_FILE_EXISTS_QUESTION=Soll die Datei überschrieben werden?
+TBoardExportImageAction.CHOOSE_FILE_OVERWRITE=Überschreiben
+TBoardExportImageAction.EXPORT_ERROR=Problem beim Exportieren des Bords
+
+TBoardNewAction.NAME=Neues Bord
+TBoardNewAction.NO_PROJECT_ERROR=Sie müssen zuerst ein Projekt anlegen, bevor Sie ein Bord anlegen können.
+
+TBoardValidationAction.NAME=Bord
+TBoardValidationAction.NO_BOARD_ERROR=Um ein Bord zu validieren muss es vorher ausgewählt sein.
+TBoardValidationAction.ASK_SAVE=Das aktuelle Bord wurde geändert
+TBoardValidationAction.ASK_SAVE_QUESTION=Änderungen vor dem Validieren speichern?
+TBoardValidationAction.MODIFIED_BOARD=Bord wurde geändert
+
+TChangeGridOrderAction.NAME=Wechseln zu
+TChangeGridOrderAction.COLUMNS=Spalten
+TChangeGridOrderAction.ROWS=Reihen
+
+TDeleteAction.NAME=Löschen
+TDeleteAction.DELETION=Gelöscht
+TDeleteAction.ASK_DELETE_GRIDS_BEGIN=Das Raster mit einigen ausgewählten Zellen
+TDeleteAction.ASK_DELETE_GRIDS_END=werden gelöscht. Sind Sie sicher?
+
+TInsertGridCellAction.CHOOSE_POSITION=Wählen Sie eine neue Position für die Zelle:
+TInsertGridCellAction.POSITION=Position
+
+TProjectExitAction.NAME=Verlassen
+TProjectExitAction.ASK_SAVE=Das aktuelle Projekt wurde geändert
+TProjectExitAction.ASK_SAVE_QUESTION=Änderungen vor dem Beenden speichern?
+TProjectExitAction.MODIFIED_PROJECT=Projekt wurde geändert
+
+TProjectImportAction.NAME=Importieren
+TProjectImportAction.IMPORT=Importieren
+TProjectImportAction.IMPORT_ERROR=Problem beim Importieren
+
+TProjectNewAction.NAME=Neu
+TProjectNewAction.ASK_SAVE=Das aktuelle Projekt wurde geändert
+TProjectNewAction.ASK_SAVE_QUESTION=Änderungen speichern vor Beginn eines neuen Projekts?
+TProjectNewAction.MODIFIED_PROJECT=Projekt wurde geändert
+
+TProjectOpenAction.NAME=Öffnen
+TProjectOpenAction.ASK_SAVE=Das aktuelle Projekt wurde geändert
+TProjectOpenAction.ASK_SAVE_QUESTION=Änderungen speichern vor Beginn eines neuen Projekts?
+TProjectOpenAction.MODIFIED_PROJECT=Projekt wurde geändert
+TProjectOpenAction.OPEN_PROJECT=Projekt öffnen
+TProjectOpenAction.OPEN_ERROR=Problem beim Öffnen des Projekts
+
+TProjectPrintAction.NAME=Drucken
+TProjectPrintAction.PRINT_ERROR=Problem beim Öffnen des Projekts
+
+TProjectSaveAction.NAME=Speichern
+TProjectSaveAction.SAVE_PROJECT=Projekt speichern
+TProjectSaveAction.CHOOSE_FILE_EXISTS=Die gewählte Datei besteht bereits.
+TProjectSaveAction.CHOOSE_FILE_EXISTS_QUESTION=Soll das Projekt überschrieben werden?
+TProjectSaveAction.CHOOSE_FILE_OVERWRITE=Überschreiben
+TProjectSaveAction.SAVE_ERROR=Problem beim Speichern des Projekts
+
+TProjectSaveAsAction.NAME=Speichern als
+TProjectSaveAsAction.SAVE_PROJECT=Projekt speichern unter 
+TProjectSaveAsAction.CHOOSE_FILE_EXISTS=Die gewählte Datei besteht bereits.
+TProjectSaveAsAction.CHOOSE_FILE_EXISTS_QUESTION=Soll das Projekt überschrieben werden?
+TProjectSaveAsAction.CHOOSE_FILE_OVERWRITE=Überschreiben
+TProjectSaveAsAction.SAVE_ERROR=Problem beim Speichern des Projekts
+
+TProjectValidationAction.NAME=Projekt
+TProjectValidationAction.ASK_SAVE=Das aktuelle Projekt wurde geändert
+TProjectValidationAction.ASK_SAVE_QUESTION=Änderungen vor dem Validieren des Projekts speichern?
+TProjectValidationAction.MODIFIED_PROJECT=Projekt wurde geändert
+
+TUsersAdminAction.NAME=Benutzer
+TLimitationsAdminAction.NAME=Einschränkungen
+TRulesAdminAction.NAME=Regeln
+TAddGridColumnAction.NAME=Spalte hinzufügen
+TAddGridRowAction.NAME=Zeile hinzufügen
+TAdjustHorizontalGapAction.NAME=Horizontale Abstände angleichen
+TAdjustVerticalGapAction.NAME=Vertikale Abstände angleichen
+TAlignBottomAction.NAME=Rand unten ausrichten
+TAlignCenterHorizontalAction.NAME=Horizontal zentrieren
+TAlignCenterVerticalAction.NAME=Vertikal zentrieren
+TAlignLeftAction.NAME=Rand links ausrichten
+TAlignRightAction.NAME=Rand rechtsechts ausrichten
+TAlignTopAction.NAME=Rand oben ausrichten
+TBackAction.NAME=In den Hintergrund
+TBoardPropertiesAction.NAME=Eigenschaften
+TComponentDialogAction.NAME=Eigenschaften
+TCopyAction.NAME=Kopieren
+TCutAction.NAME=Ausschneiden
+TDeleteGridCellAction.NAME=Zelle löschen
+TEditorPreferencesAction.NAME=Präferenzen
+TEditorHelpAction.NAME=Hilfe anzeigen
+TEditorAboutAction.NAME=Über
+TExtractGridCellAction.NAME=Zelle extrahieren
+TFitHeightAction.NAME=Höhe angleichen
+TFitWidthAction.NAME=Breite angleichen
+TFrontAction.NAME=In den Vordergrund
+THandlerCellAction.NAME=Zelle
+THandlerControllerCellAction.NAME=Steuerzelle
+THandlerGridAction.NAME=Raster
+THandlerLabelAction.NAME=Etikett
+THandlerLineAction.NAME=Linie
+THandlerOvalAction.NAME=Oval
+THandlerRectangleAction.NAME=Rechteck
+THandlerRoundRectAction.NAME=Abgeundetes Rechteck
+THandlerSelectionAction.NAME=Auswählen
+THandlerTextAreaAction.NAME=Textbereich
+TPasteAction.NAME=Einfügen in
+TProjectPropertiesAction.NAME=Eigenschaften
+TRedoAction.NAME=Wiederholen
+TReorderGridAction.NAME=Raster neu amordnen
+TSelectAllAction.NAME=Alles auswählen
+TUndoAction.NAME=Rückgängig machen
+
+// tico.editor.dialogs
+TAboutDialog.TITLE=Über
+TAboutDialog.EDITOR_VERSION=Tico Editor e1.5 r2
+TAboutDialog.INTERPRETER_VERSION=Tico Interpreter e1.5 r2
+TAboutDialog.DEVELOPERS=Entwickler
+TAboutDialog.OTHER_DEVELOPERS=Andere …
+TAboutDialog.DIRECTOR=Direktor
+TAboutDialog.COLLABORATORS=Mitarbeiter
+TAboutDialog.ORGANIZATIONS=Organisationen
+TAboutDialog.YEAR=Jahr
+TAboutDialog.LICENSE=Lizenz
+TAboutDialog.BUTTON_ACCEPT=Zustimmen
+
+TBoardDialog.TITLE=Bord
+TBoardDialog.TAB_PROPERTIES=Eigenschaften
+TBoardDialog.TAB_BROWSE_ORDER=Scan-Reihenfolge
+TBoardDialog.BOARD_NAME=Name
+TBoardDialog.ERROR_EMPTY_NAME=Sie können keinen leeren Namen verwenden.
+TBoardDialog.ERROR_REPEATED_NAME=Sie können den gleichen Namen nicht doppelt verwenden.
+
+TCellDialog.TITLE=Zelle
+TCellDialog.ID=Bezeichner
+TCellDialog.TAB_TEXT=Text
+TCellDialog.TAB_PROPERTIES=Eigenschaften
+TCellDialog.TAB_ACTIONS=Aktionen
+TCellDialog.TEXT_FILED=Text
+TCellDialog.ALTERNATIVE_IMAGE=Alternatives Bild
+TCellDialog.ENVIRONMENT=Umgebung
+TCellDialog.TAB_MULTIMEDIA=Multimedia
+
+TControllerCellDialog.TITLE=Steuerzelle
+TControllerCellDialog.ID=Bezeichner
+TControllerCellDialog.TAB_TEXT=Text
+TControllerCellDialog.TAB_ACTIONS=Aktionen
+TControllerCellDialog.TEXT_FILED=Text
+TControllerCellDialog.TEXT_DEFAULT=Verlassen
+
+TComponentDialog.ERROR_EMPTY_ID=Sie können keinen leeren Bezeichner verwenden.
+TComponentDialog.ERROR_REPEATED_ID=Sie können den gleichen Bezeichner nicht doppelt verwenden.
+
+TEditorDialog.TITLE=Präferenzen
+TEditorDialog.TAB_PREFERENCES=Präferenzen
+TEditorDialog.LANGUAGE=Sprache
+TEditorDialog.LANGUAGE_CHANGE_ADVICE=Sie müssen das Programm neu starten, damit die Sprachänderung wirksam wird.
+TEditorDialog.LANGUAGE_CHANGE=Sprache ändern
+
+TGridCellDialog.TITLE=Rasterzelle
+TGridCellDialog.TAB_GRID=Raster
+
+TGridSizeOptionPane.TITLE=Wählen Sie  die Größe
+TGridSizeOptionPane.ROWS=Reihen
+TGridSizeOptionPane.COLUMNS=Spalten
+TGridSizeOptionPane.BUTTON_ACCEPT=Zustimmen
+
+// Image gallery
+TImageGalleryDialog.GALLERY_MANAGER=Galerie-Manager
+
+TIGManageImageAction.EMPTY=Es gibt keine Bilder in der datenbank.
+TIGManageImageAction.ERROR=Leere Datenbank
+
+TLabelDialog.TITLE=Etikett
+TLabelDialog.TAB_TEXT=Text
+TLabelDialog.TAB_PROPERTIES=Eigenschaften
+TLabelDialog.TEXT=Text
+
+TLineDialog.TITLE=Linie
+TLineDialog.TAB_PROPERTIES=Eigenschaften
+
+TPolygonDialog.TITLE=Polygon
+TPolygonDialog.TAB_PROPERTIES=Eigenschaften
+
+TProjectDialog.TITLE=Eigenschaften
+TProjectDialog.TAB_PROPERTIES=Eigenschaften
+
+TPropertiesDialog.BUTTON_ACCEPT=Zustimmen
+TPropertiesDialog.BUTTON_APPLY=Anwenden
+TPropertiesDialog.BUTTON_CANCEL=Abbrechen
+
+TTextAreaDialog.TITLE=Textbereich
+TTextAreaDialog.ID=Bezeichner
+TTextAreaDialog.TAB_TEXT=Text
+TTextAreaDialog.TAB_PROPERTIES=Eigenschaften
+TTextAreaDialog.TEXT=Text
+
+// tico.editor.handlers
+TBasicMarqueeHandler.ALIGNMENT=Ausrichtung
+
+// tico.editor.toolbars
+TAlignToolBar.NAME=Ausrichten
+TEditionToolBar.NAME=Aktionen
+TFileToolBar.NAME=Datei
+TFormatToolBar.NAME=Format
+TFormatToolBar.APPLY_BACKGROUND_TOOLTIP=Hintergrund anwenden
+TFormatToolBar.APPLY_BORDER_TOOLTIP=Rand anwenden
+THandlersToolBar.NAME=Werkzeuge
+TTextToolBar.NAME=Text
+TTextToolBar.APPLY_TEXT_TOOLTIP=Text anwenden
+TTextToolBar.BOLD=Fett
+TTextToolBar.ITALIC=Kursiv
+
+// tico.interpreter
+TInterpreter.INTERPRETER_WINDOW_TITLE=Tico Interpreter
+TInterpreter.FILE_MENU=Datei
+TInterpreterMenuBar.ACTION_MENU=Aktionen
+TInterpreterExitAction.NAME=Verlassen
+TInterpreterRunAction.NAME=Start
+TInterpreterReturnAction.NAME=Zurück
+TInterpreterStopAction.NAME=Stop
+TInterpreterCopyAction.NAME=Kopieren
+TInterpreterMenuBar.VIEW_MENU=Konfiguration
+TInterpreterLanguaje.NAME=Präferenzen
+TInterpreter.VALIDATION_MENU=Validierung
+TEditorMenuBar.VALIDATE=Interpreter-Optionen validieren
+TInterpreterFullscreenAction.NAME=Ganzer Bildschirm
+
+TInterpreterMouseMode.AUTOMATIC_SCANNING=Automatisches Scannen
+TInterpreterMouseMode.DIRECT_SELECTION=Direkte Auswahl
+TInterpreterMouseMode.MANUAL_SCANNING=Manuelles Scannen
+TInterpreterOptions.NAME=Optionen für Interpreter
+TInterpreterRead.NAME=Lesen
+TInterpreterCopy.NAME=Kopieren
+TInterpreterReadAction.NAME=Lesen
+TInterpreterUndoAction.NAME=Zelle löschen
+TInterpreterUndoAllAction.NAME=Zelle löschen
+TInterpreterHomeAction.NAME=Zum Anfang
+TInterpreterValidationAction.NAME=Interpreter
+
+TInterpreterOptionDialog.NAME=Optionen für Interpreter
+TInterpreterOptionDialog.CURSOR_IMAGE=Bild für Mauszeiger
+TInterpreterOptionDialog.MAX_ACCUMULATED_CELLS=Maximalzahl akumulierter Zellen
+TInterpreterOptionDialog.MOUSE_MODE=Maus-Modus
+TInterpreterOptionDialog.WAIT_CURSOR=Wartezeit für Mauszeiger
+TInterpreterOptionDialog.BUTTON_ACCEPT=Zustimmen
+TInterpreterOptionDialog.BUTTON_CANCEL=Abbrechen
+
+// tico.rules
+TValidationDialog.BOARD_TITLE=Bord validieren
+TValidationDialog.PROJECT_TITLE=Projekt validieren
+TValidationDialog.INTERPRETER_TITLE=Interpreter validieren
+TValidationDialog.TAB=Validieren
+TValidationDialog.BUTTONDESIGN=Design-Vorschläge
+TValidationDialog.BUTTONVALIDATE=Validieren
+TValidationDialog.CLOSE_BUTTON=Schließen
+TValidationDialog.LOAD_USER_BUTTON=Nutzer laden
+
+TGenerateRules.ERROR_MESSAGE=Fehler in der Regel
+
+Rules.PROJECTNUMBOARDS=Bordnummer P
+Rules.BOARDHEIGHT=Höhe B
+Rules.BOARDWIDTH=Breite B
+Rules.BOARDLIGHTNESS=Helligkeit Hintergrund B
+Rules.BOARDNOIMAGE=ohne Bild B
+Rules.BOARDSOUND=Sound B
+Rules.CELLHEIGHT=Höhe C
+Rules.CELLWIDTH=Breite C
+Rules.CELLLIGHTNESS=Helligkeit Hintergrund C
+Rules.CELLBORDERLIGHTNESS=Helligkeit Rand C
+Rules.CELLBORDERWIDTH=Breite Rand C
+Rules.CELLTEXT=Text C
+Rules.CELLTEXTSIZE=Größe Text C
+Rules.CELLTEXTTYPE=Text in Großbuchstaben C
+Rules.CELLTEXTFONT=Font Arial/Verdana C
+Rules.CELLTEXTSTYLE=Text ohne Format C
+Rules.CELLTEXTLIGHTNESS=Helligkeit Text C
+Rules.CELLSOUND=Sound C
+Rules.CELLROW=Reihe C
+Rules.CELLCOLUMN=Spalte C
+Rules.CELLNOIMAGE=ohne Bild C
+Rules.CELLIMAGEHEIGHT=Höhe Bild C
+Rules.CELLIMAGEWIDTH=Breite Bild C
+Rules.CELLNOALTERNATIVEICON=ohne Alternativsymbol C
+Rules.CELLICONHEIGHT=Alternative Höhe für Symbol C
+Rules.CELLICONWIDTH=Breite Alternativsymbol C
+
+TUsersAdminDialog.TITLE=Nutzeradministration
+TUsersAdminDialog.TAB=Benutzer
+TUsersAdminDialog.TEXT_TITLE=Einschränkungen
+TUsersAdminDialog.CLOSE_BUTTON=Schließen
+TUsersAdminDialog.LOAD_USER_BUTTON=Nutzer laden
+TUsersAdminDialog.SAVE_USER_BUTTON=Nutzer speichern
+TUsersAdminDialog.DELETE_USER_BUTTON=Nutzer löschen
+TUsersAdminDialog.DELETE_MESAGE=Sind Sie sicher, dass dieser Benutzer gelöscht werden soll?
+TUsersAdminDialog.ACCEPT_OPTION=Zustimmen
+TUsersAdminDialog.CANCEL_OPTION=Abbrechen
+TUsersAdminDialog.MESSAGE=Der Nutzer wurde korrekt gespeichert.
+TUsersAdminDialog.ERROR_MESSAGE=Der Nutzer wurde nicht korrekt gespeichert.
+TUsersAdminDialog.DELETE_OK_MESSAGE=Der Nutzer wurde korrekt gelöscht.
+TUsersAdminDialog.DELETE_ERROR_MESSAGE=Der Nutzer wurde nicht korrekt gelöscht.
+
+TLimitationsAdminDialog.TITLE=Verwaltung Einschränkungen
+TLimitationsAdminDialog.TAB=Einschränkungen
+TLimitationsAdminDialog.TEXT_LIMIT=Einschränkungen
+TLimitationsAdminDialog.TEXT_PARAM=Parameter
+TLimitationsAdminDialog.TEXT_TABLE=Erforderlich
+TLimitationsAdminDialog.LABEL_LIMT=Einschränkung:
+TLimitationsAdminDialog.LABEL_PARAM=Parameter:
+TLimitationsAdminDialog.SAVE_BUTTON=Änderungen speichern
+TLimitationsAdminDialog.CLOSE_BUTTON=Schließen
+TLimitationsAdminDialog.LOAD_BUTTON=Vordefinierte Werte laden
+TLimitationsAdminDialog.RANGE=Bereich
+TLimitationsAdminDialog.ACCEPT_OPTION=Zustimmen
+TLimitationsAdminDialog.CANCEL_OPTION=Abbrechen
+TLimitationsAdminDialog.DELETE_MESSAGE=Zellen dürfen nicht leer sein. Ändern Sie den Wert oder löschen Sie die gesamte Zeile.
+TLimitationsAdminDialog.DELETE_ROW=Gesamte Reihe löschen
+TLimitationsAdminDialog.ADD_ROW=Zeile hinzufügen
+TLimitationsAdminDialog.DELETE_LIMIT=Beschränkung löschen
+TLimitationsAdminDialog.ADD_LIMIT=Limit hinzufügen
+TLimitationsAdminDialog.DELETE_PARAM=Parameter löschen
+TLimitationsAdminDialog.ADD_PARAM=Parameter hinzufügen
+TLimitationsAdminDialog.MAX_LIMIT=Maximale Anzehl Einschränkungen überschritten
+TLimitationsAdminDialog.MESSAGE=Die Daten wurden korrekt gespeichert
+TLimitationsAdminDialog.ERROR_MESSAGE=Die Daten konnten nicht korrekt gespeichert werden
+TLimitationsAdminDialog.DELETE_OK_MESSAGE=Die Daten wurden korrekt gelöscht
+TLimitationsAdminDialog.DELETE_ERROR_MESSAGE=Die Daten konnten nicht korrekt gelöscht werden
+TLimitationsAdminDialog.INFO_BLANKCELLS=Jede Zeile muss vollständig sein
+TLimitationsAdminDialog.INT=Numerischer Typ
+TLimitationsAdminDialog.BOOL=Typ wahr/falsch
+TLimitationsAdminDialog.ACCEPT_OPTION=Zustimmen
+TLimitationsAdminDialog.CANCEL_OPTION=Abbrechen
+TLimitationsAdminDialog.DELETE_LIM_MESAGE=Sind Sie sicher, dass diese Begrenzung gelöscht werden soll?
+TLimitationsAdminDialog.DELETE_PARAM_MESAGE=Sind Sie sicher, dass dieser Parameter gelöscht werden soll?
+
+TRulesAdminDialog.TITLE=Regel-Verwaltung
+TRulesAdminDialog.TEXT_TITLE=Regeln
+TRulesAdminDialog.TAB=Regeln
+TRulesAdminDialog.PROJECT=Projekt
+TRulesAdminDialog.BOARD=Bord
+TRulesAdminDialog.CELL=Zelle
+TRulesAdminDialog.ALL=Alle
+TRulesAdminDialog.CLOSE_BUTTON=Schließen
+TRulesAdminDialog.SELECT=Regel auswählen:
+TRulesAdminDialog.RULE=Regel
+TRulesAdminDialog.FUNCTION=Funktionstyp:
+TRulesAdminDialog.ATTRIBUTE=Attribute oder Eigenschaften der Elemente
+TRulesAdminDialog.PARAMETER=Parameter Einschränkungen
+TRulesAdminDialog.INFOLABEL=C = Zelle / B = Bord / P = Projekt / I = Interpreter
+TRulesAdminDialog.LANGUAGE=Nachricht in
+TRulesAdminDialog.REMOVE_BUTTON=Regel löschen
+TRulesAdminDialog.EDIT_BUTTON=Regel ändern
+TRulesAdminDialog.ADD_BUTTON=Neue Regel hinzufügen
+TRulesAdminDialog.LOAD_BUTTON=Vordefinierte Regeln laden
+TRulesAdminDialog.LOAD_RULES_MESSAGE=Sind Sie sicher, dass die ursprünglichen Regeln geladen werden sollen? Die aktuellen Regeln werden dadurch gelöscht.
+TRulesAdminDialog.LOAD_ERROR_MESSAGE=Die Regeln konnten nicht korrekt geladen werden
+TRulesAdminDialog.LOAD_OK_MESSAGE=Die Regeln wurden korrekt geladen
+TRulesAdminDialog.DELETE_MESAGE=Sind Sie sicher, dass diese Regel gelöscht werden soll?
+TRulesAdminDialog.DELETE_OK_MESSAGE=Die Regel wurde korekt gelöscht
+TRulesAdminDialog.DELETE_ERROR_MESSAGE=Die Regel wurde nicht korekt gelöscht
+TRulesAdminDialog.EDIT_OK_MESSAGE=Die Regel wurde korekt gelöscht. Wenn Sie auch die Nachricht geändert haben, muss das Projekt neu gestartet werden, damit die Änderung wirksam wird.
+TRulesAdminDialog.EDIT_ERROR_MESSAGE=Die Regel wurde nicht korekt geändert
+TRulesAdminDialog.ACCEPT_OPTION=Zustimmen
+TRulesAdminDialog.CANCEL_OPTION=Abbrechen
+
+TAddRule.TITLE=Regel hinzufügen
+TAddRule.TAB=Hinzufügen
+TAddRule.FUNCTION=Funktionstyp:
+TAddRule.ATTRIBUTE=Attribute oder Eigenschaften der Elemente
+TAddRule.PARAMETER=Parameter Einschränkungen
+TAddRule.INFOLABEL=C = Zelle / B = Bord / P = Projekt / I = Interpreter
+TAddRule.LANGUAGE=Nachricht in
+TAddRule.SAVE_BUTTON=Regel speichern
+TAddRule.CLOSE_BUTTON=Schließen
+TAddRule.INFO_BLANK_FUN=Sie müssen eine Funktion wählen.
+TAddRule.INFO_BLANK_ATR=Sie müssen eine Eigenschaft wählen.
+TAddRule.INFO_BLANK_PAR=Sie müssen einen Parameter wählen.
+TAddRule.INFO_BLANK_ES=Sie müssen eine Nachricht schreiben.
+TAddRule.SAVE_OK_MESSAGE=Die Regel wurde korekt gespeichert. Das Projekt muss neu gestartet werden, damit die Änderung bei der Nachricht wirksam wird.
+TAddRule.SAVE_ERROR_MESSAGE=Die Regel wurde nicht korekt gespeichert
+TAddRule.TEXT_TITLE=Regel hinzufügen
+
+TBoardRules.ANALYZE=Analyse des Bords
+TShowResults.TEXTAREA_VALIDATION_NAME=Validierungsergebnis
+TShowResults.TEXTAREA_DESIGNRULES_NAME=Design-Regeln
+TShowResults.PROPERTY=Eigenschaft: 
+TShowResults.VALUE=Wert:
+TShowResults.ADVICE=Vorschlag:
+TShowResults.NO_ADVICES=Es gibt keine Vorschläge.
+TShowResults.UPPERCASE=Großbuchstaben
+TShowResults.NO=Nein
+TShowResults.YES=Ja
+TShowResults.FONT=Arial oder Verdana
+TShowResults.STYLE=kein Format
+TShowResults.MOUSEBAR=Scan-Modus
+
+TShowResults.ATTRIB_CELL=Regeln für Zellen:
+TShowResults.ATTRIB_BOARD=Regeln für Bords:
+TShowResults.ATTRIB_PROJECT=Regeln für Projekte:
+TShowResults.ATTRIB_INTERPRETER=Regelen für Interpreter:
+TShowResults.COLORTABLE=Gute Farbkombinationen:
+
+TProjectDialog.ORIENTATION=Orientierung
+TProjectDialog.FREE=Frei
+TProjectDialog.LANDSCAPE=Horizontal
+TProjectDialog.PORTRAIT=Hochformat
+
+TSynthesizerConfig.TITLE=Synthetisiert
+TSynthesizerConfig.CONFIGURE_VOICE=Stimme konfigurieren
+TSynthesizerConfig.COPY_TEXT=Text kopieren
+TSynthesizerConfig.GOOGLE_VOICE=Google-Stimme
+TSynthesizerConfig.SYSTEM_VOICE=Systemstimme
+
+TProjectNewAndroidAction.NAME=Neues Android
+newAndroidOptions.SIZE_INSTRUCTIONS=
+
+newAndroidOptions.TITLE=Optionen für Android

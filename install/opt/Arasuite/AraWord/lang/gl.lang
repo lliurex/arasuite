@@ -1,0 +1,166 @@
+# Translation into Galician 
+# Author: Iván José Dasilva Freire
+# Sourceforge developer: idasfre
+# Email: 619052@unizar.es
+# Date: 23/07/2015
+# Comments: translation to Galician. No comments required.
+#
+
+LANG_NAME=Gallego
+
+// Common
+ERROR=Erro
+WARNING=Aviso
+INFO=Información
+OK=Aceptar
+CANCEL=Cancelar
+CLOSE=Cerrar
+
+// Menus
+
+FILE_MENU=Arquivo
+FILE_MENU_NEW=Novo
+FILE_MENU_LOAD=Abrir
+FILE_MENU_SAVE=Gardar
+FILE_MENU_SAVE_AS=Gardar como...
+FILE_MENU_EXPORT=Exportar
+FILE_MENU_EXIT=Saír
+
+EDIT_MENU=Edición
+EDIT_MENU_UNDO=Desfacer
+EDIT_MENU_REDO=Refacer
+EDIT_MENU_CUT=Cortar
+EDIT_MENU_COPY=Copiar
+EDIT_MENU_PASTE=Pegar
+EDIT_MENU_FIND=Buscar
+EDIT_MENU_SELECT_ALL=Seleccionar todo
+
+TEXT_MENU=Texto
+TEXT_MENU_FONT=Fonte
+TEXT_MENU_COLOR=Cor
+TEXT_MENU_PLACEMENT=Ubicación
+TEXT_MENU_PLACEMENT_ABOVE_PICTOGRAM=Encima do pictograma
+TEXT_MENU_PLACEMENT_BELOW_PICTOGRAM=Debaixo do pictograma
+TEXT_MENU_TO_UPPER_CASE=Texto a maiúsculas...
+TEXT_MENU_TO_UPPER_CASE_ACTIVE_ELEMENT=Elemento actual
+TEXT_MENU_TO_UPPER_CASE_ALL_ELEMENTS=Todos os elementos
+TEXT_MENU_TO_LOWER_CASE=Texto a minúsculas...
+TEXT_MENU_TO_LOWER_CASE_ACTIVE_ELEMENT=Elemento actual
+TEXT_MENU_TO_LOWER_CASE_ALL_ELEMENTS=Todos os elementos
+TEXT_MENU_DOCUMENT_LANGUAGE=Idioma do documento
+
+PICTOGRAMS_MENU=Pictogramas
+PICTOGRAMS_MENU_SIZE=Tamaño
+PICTOGRAMS_MENU_NEXT_IMAGE=Seguinte imaxe
+PICTOGRAMS_MENU_COMPOUND_SPLIT_WORD=Compoñer/descompoñer palabra
+PICTOGRAMS_MENU_CHANGE_NAME=Cambiar nome
+PICTOGRAMS_MENU_HIDE=Ocultar...
+PICTOGRAMS_MENU_HIDE_BORDER=Borde
+PICTOGRAMS_MENU_HIDE_BORDER_ACTIVE_ELEMENT=Do elemento actual
+PICTOGRAMS_MENU_HIDE_BORDER_ALL_ELEMENTS=De todos os elementos
+PICTOGRAMS_MENU_HIDE_IMAGE=Imaxe
+PICTOGRAMS_MENU_HIDE_IMAGE_ACTIVE_ELEMENT=Do elemento actual
+PICTOGRAMS_MENU_HIDE_IMAGE_ALL_ELEMENTS=De todos os elementos
+PICTOGRAMS_MENU_SHOW=Mostrar...
+PICTOGRAMS_MENU_SHOW_BORDER=Borde
+PICTOGRAMS_MENU_SHOW_BORDER_ACTIVE_ELEMENT=Do elemento actual
+PICTOGRAMS_MENU_SHOW_BORDER_ALL_ELEMENTS=De todos os elementos
+PICTOGRAMS_MENU_SHOW_IMAGE=Imaxe
+PICTOGRAMS_MENU_SHOW_IMAGE_ACTIVE_ELEMENT=Do elemento actual
+PICTOGRAMS_MENU_SHOW_IMAGE_ALL_ELEMENTS=De todos os elementos
+PICTOGRAMS_MENU_GRAYSCALE=Escala de grises
+
+TOOLS_MENU=Ferramentas
+TOOLS_MENU_RESOURCE_MANAGER=Xestor de Recursos
+TOOLS_MENU_ADD_IMAGE=Engadir imaxe
+TOOLS_MENU_EXPORT_DATABASE=Exportar BD
+TOOLS_MENU_IMPORT_DATABASE=Importar BD
+TOOLS_MENU_FIND_IMAGE=Editar imaxe
+TOOLS_MENU_GENERAL_PREFERENCES=Preferencias xerais
+
+HELP_MENU=Axuda
+HELP_MENU_SHOW_HELP=Mostrar axuda
+HELP_MENU_ABOUT=Acerca de...
+
+// Inner ones
+
+FILE_MENU_NEW_WARNING_DISCARD=¿Desexa descartar o documento actual?
+FILE_MENU_SAVE_UNABLE_SAVE_EMPTY_FILE=Imposible gardar un ficheiro baleiro.
+FILE_MENU_EXIT_WARNING=¿Desexa saír?
+
+EDIT_MENU_UNDO_UNABLE_MORE_UNDO=Imposible desfacer máis.
+EDIT_MENU_REDO_UNABLE_MORE_REDO=Imposible refacer máis.
+EDIT_MENU_CUT_UNABLE_CUT_ALL=Imposible cortar o texto completo.\n Por favor, deixe polo menos unha palabra sen seleccionar ao cortar texto.\n
+EDIT_MENU_FIND_UNABLE_EMPTY_STRING_SEARCH=Por favor, insira un texto a buscar.\n
+EDIT_MENU_FIND_NOT_FOUND_TEXT=No se atopou o texto.\n
+
+GENERAL_PREFERENCES_DIALOG_TITLE=Preferencias xerais
+DOCUMENT_PREFERENCES_DIALOG_TITLE=Preferencias do documento
+ABOUT_DIALOG_TITLE=Acerca de AraWord
+
+GENERAL_PREFERENCES_DIALOG_APPLICATION_LANGUAGE_LABEL=Idioma da aplicación
+GENERAL_PREFERENCES_DIALOG_DOCUMENT_LANGUAGE_LABEL=Idioma do documento
+GENERAL_PREFERENCES_DIALOG_IMAGES_SIZE_LABEL=Tamaño das imaxes
+GENERAL_PREFERENCES_DIALOG_MAX_LENGTH_COMPOUND_WORDS_LABEL=Lonx. máx. autocompoñer
+GENERAL_PREFERENCES_DIALOG_MAX_UNDO_LEVEL_LABEL=Nivel máx. de desfacer
+GENERAL_PREFERENCES_DIALOG_PICTOGRAMS_PATH_LABEL=Ruta aos pictogramas
+GENERAL_PREFERENCES_DIALOG_PICTOGRAMS_PATH_CHOOSE_BUTTON=Elixir
+GENERAL_PREFERENCES_DIALOG_TEXT_FONT_LABEL=Fonte do texto
+GENERAL_PREFERENCES_DIALOG_TEXT_FONT_CHOOSE_BUTTON=Elixir
+GENERAL_PREFERENCES_DIALOG_TEXT_COLOR_LABEL=Color do texto
+GENERAL_PREFERENCES_DIALOG_TEXT_COLOR_CHOOSE_BUTTON=Elixir
+GENERAL_PREFERENCES_DIALOG_TEXT_PLACEMENT_LABEL=Ubicación do texto
+GENERAL_PREFERENCES_DIALOG_IMAGES_COLOR_LABEL=Niveis de gris
+
+DOCUMENT_LANGUAGE_DIALOG_TITLE=Idioma do documento
+DOCUMENT_LANGUAGE_DIALOG_DOCUMENT_LANGUAGE_LABEL=Idioma do documento
+
+IMAGES_SIZE_DIALOG_TITLE=Tamaño das imaxes
+IMAGES_SIZE_DIALOG_IMAGES_SIZE_LABEL=Tamaño das imaxes
+
+IMAGES_COLOR_DIALOG_TITLE=Escala de grises
+IMAGES_COLOR_DIALOG_IMAGES_COLOR_LABEL=Niveis
+
+UNABLE_DELETE_ALL_TEXT=Imposible borrar todo o texto
+ARAWORD_DOCUMENTS=Documentos de AraWord
+PDF_FILES=Arquivos PDF
+BMP_FILES=Arquivos BMP
+JPG_FILES=Arquivos JPG
+
+SPINNER_TEXT_BELOW_PICTOGRAM=Debaixo do pictograma
+SPINNER_TEXT_ABOVE_PICTOGRAM=Encima do pictograma
+
+// About dialog
+TAboutDialog.DEVELOPERS=Desenvolvedores
+TAboutDialog.DIRECTOR=Director
+TAboutDialog.COLLABORATORS=Colaboradores
+TAboutDialog.ORGANIZATIONS=Entidades
+TAboutDialog.YEAR=Ano
+TAboutDialog.LICENSE=Licenza
+
+// Related to conjugated databases
+VERB_DATABASE_CREATION_MESSAGE=Creando a base de datos de verbos conxugados. Espere á miña próxima mensaxe
+VERB_DATABASE_CREATION_MESSAGE_END=Terminado. Agora podes usar verbos conxugados
+
+
+//NEW. en otros idiomas añadir PO al comiezo del texto (pending Of Translation)
+FILE_MENU_EXPORT_IMAGE=como imaxe
+FILE_MENU_EXPORT_PDF=como PDF
+EXPORT_PDF_DIALOG_TITLE=Exportar PDF
+EXPORT_PDF_BUTTON=Exportar PDF
+EXPORT_PDF_PICTOS_LINE=Nº pictos por línea
+EXPORT_PDF_ARASAAC_LICENSE=Engadir licencia de ARASAAC
+EXPORT_PDF_LANDSCAPE=Apaisado
+EXPORT_PDF_PAGE=Páxina
+EXPORT_PDF_PREVISUALIZATION=Previsualización
+EXPORT_PDF_LICENCIA=Autor Pictos: Sergio Palao. Procedencia: ARASAAC (http://catedu.es/arasaac/). Licencia: CC(BY-NC-SA)
+EXPORT_PDF_LICENCIA2=Material xerado con AraWord: http://sourceforge.net/projects/arasuite/
+TOOLS_MENU_VOICE_SINTESYS=Sintesis de voz
+ESPERA=Espera
+
+//----------------------------------------------------
+//Import custom picto
+//----------------------------------------------------
+CUSTOM.DESEA_ADD_PICTO=¿Desexa engadir este novo picto?
+CUSTOM.IMPORTAR=Importar
+CUSTOM.RECHAZAR=Rexeitar

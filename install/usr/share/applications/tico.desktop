@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Tico
+Comment=Interactive Grid Editor
+Comment[es]=Editor de tableros interactivos
+Comment[ca_ES@valencia]=Editor de taulers interactius
+Comment[ca_ES-UTF8@valencia]=Editor de taulers interactius
+Comment[ca]=Editor de taulers interactius
+TryExec=/usr/bin/ticolauncher.sh
+Exec=/usr/bin/ticolauncher.sh
+Terminal=false
+Icon=tico2.2.4
+Type=Application
+GenericName=Tico
+Categories=Education;
