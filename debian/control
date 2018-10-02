@@ -2,8 +2,8 @@ Source: arasuite
 Section: misc
 Priority: optional
 Maintainer: LliureX Team <lliurex@lliurex.net>
-Build-Depends: llxsrchelper,debhelper (>= 8.0.0)
-Standards-Version: 3.9.3
+Build-Depends: llxsrchelper,debhelper (>= 10)
+Standards-Version: 4.1.2
 Homepage: http://arasuite.proyectotico.es
 #Vcs-Git: git://git.debian.org/collab-maint/lliurex-guard.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/lliurex-guard.git;a=summary
