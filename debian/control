@@ -1,0 +1,16 @@
+Source: arasuite
+Section: misc
+Priority: optional
+Maintainer: LliureX Team <lliurex@lliurex.net>
+Build-Depends: llxsrchelper,debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: http://arasuite.proyectotico.es
+#Vcs-Git: git://git.debian.org/collab-maint/lliurex-guard.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/lliurex-guard.git;a=summary
+
+Package: arasuite
+Architecture: all
+Depends: ${misc:Depends}, openjdk-8-jre, default-jre-headless
+Description: Arasuite
+ AraSuite, a set of tools for augmentative
+ and adaptative communication  

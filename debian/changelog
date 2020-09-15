@@ -1,0 +1,18 @@
+arasuite (2.2.4+lliurex4) bionic; urgency=medium
+
+  * Initial version for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 02 Oct 2018 09:33:53 +0200
+
+arasuite (2.2.4+lliurex2) xenial; urgency=high
+
+  * Added Valencian translation to AraWord
+  * Added icons
+
+ -- Jose A. Murcia <jose@xenobi>  Wed, 15 Nov 2017 13:57:46 +0100
+
+arasuite (2.2.4+lliurex1) xenial; urgency=high
+
+  * Packed from origin.
+
+ -- Jose A. Murcia <joamuran@gmail.com>  Fri, 10 Nov 2017 09:17:14 +0100
