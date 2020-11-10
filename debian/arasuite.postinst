@@ -25,7 +25,7 @@ case "$1" in
     configure)
 	echo "Creating .arasuite folder..."
 	test -d ${base_dir}/.arasuite || mkdir ${base_dir}/.arasuite
-	
+	test -d ${base_dir}/Araword/current || mkdir ${base_dir}/Araword/current
         # Adding permissions
 	echo "Adding permissions..."
 	chmod -R 777 ${base_dir}/.arasuite
