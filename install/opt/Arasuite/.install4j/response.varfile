@@ -1,6 +1,0 @@
-# install4j response file for Arasuite 2.2.4
-sys.adminRights$Boolean=false
-sys.installationDir=/home/jose/AraSuite
-sys.languageId=es
-sys.programGroupDisabled$Boolean=false
-sys.symlinkDir=/usr/local/bin

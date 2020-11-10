@@ -1,3 +1,0 @@
-entorno=Environment
-#Comentarios
-#blender=/home/ivan/programs/blender/blender-2.76-linux-glibc211-x86_64/blender
