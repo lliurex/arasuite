@@ -32,8 +32,10 @@ read_db_entry() {
     elif [ "$r_type" = "JRE_INFO" ]; then
       if [ "$r_dir" = "$test_dir" ]; then
         is_openjdk=$r_ver_major
-        found=0
-        break
+        if [ "W$r_ver_minor" = "W$modification_date" ]; then
+          found=0
+          break
+        fi
       fi
     fi
   done
@@ -49,8 +51,8 @@ create_db_entry() {
   is_openjdk=`expr "$version_output" : '.*OpenJDK'`
   if [ "$is_gcj" = "0" ]; then
     java_version=`expr "$version_output" : '.*"\(.*\)".*'`
-    ver_major=`expr "$java_version" : '\([0-9][0-9]*\)\..*'`
-    ver_minor=`expr "$java_version" : '[0-9][0-9]*\.\([0-9][0-9]*\)\..*'`
+    ver_major=`expr "$java_version" : '\([0-9][0-9]*\).*'`
+    ver_minor=`expr "$java_version" : '[0-9][0-9]*\.\([0-9][0-9]*\).*'`
     ver_micro=`expr "$java_version" : '[0-9][0-9]*\.[0-9][0-9]*\.\([0-9][0-9]*\).*'`
     ver_patch=`expr "$java_version" : '[0-9][0-9]*\.[0-9][0-9]*\.[0-9][0-9]*[\._]\([0-9][0-9]*\).*'`
   fi
@@ -62,14 +64,20 @@ create_db_entry() {
   fi
   db_new_file=${db_file}_new
   if [ -f "$db_file" ]; then
-    awk '$1 != "'"$test_dir"'" {print $0}' $db_file > $db_new_file
+    awk '$2 != "'"$test_dir"'" {print $0}' $db_file > $db_new_file
     rm "$db_file"
     mv "$db_new_file" "$db_file"
   fi
   dir_escaped=`echo "$test_dir" | sed -e 's/ /\\\\ /g'`
   echo "JRE_VERSION	$dir_escaped	$ver_major	$ver_minor	$ver_micro	$ver_patch" >> $db_file
-  echo "JRE_INFO	$dir_escaped	$is_openjdk" >> $db_file
+  echo "JRE_INFO	$dir_escaped	$is_openjdk	$modification_date" >> $db_file
   chmod g+w $db_file
+}
+
+check_date_output() {
+  if [ -n "$date_output" -a $date_output -eq $date_output 2> /dev/null ]; then
+    modification_date=$date_output
+  fi
 }
 
 test_jvm() {
@@ -79,6 +87,27 @@ test_jvm() {
   java_exc=$bin_dir/java
   if [ -z "$test_dir" ] || [ ! -d "$bin_dir" ] || [ ! -f "$java_exc" ] || [ ! -x "$java_exc" ]; then
     return
+  fi
+
+  modification_date=0
+  date_output=`date -r "$java_exc" "+%s" 2>/dev/null`
+  if [ $? -eq 0 ]; then
+    check_date_output
+  fi
+  if [ $modification_date -eq 0 ]; then
+    stat_path=`which stat 2> /dev/null`
+    if [ -f "$stat_path" ]; then
+      date_output=`stat -f "%m" "$java_exc" 2>/dev/null`
+      if [ $? -eq 0 ]; then
+        check_date_output
+      fi
+      if [ $modification_date -eq 0 ]; then
+        date_output=`stat -c "%Y" "$java_exc" 2>/dev/null`
+        if [ $? -eq 0 ]; then
+          check_date_output
+        fi
+      fi
+    fi
   fi
 
   tested_jvm=false
@@ -244,7 +273,7 @@ run_unpack200() {
 
 search_jre() {
 if [ -z "$app_java_home" ]; then
-  test_jvm $INSTALL4J_JAVA_HOME_OVERRIDE
+  test_jvm "$INSTALL4J_JAVA_HOME_OVERRIDE"
 fi
 
 if [ -z "$app_java_home" ]; then
@@ -292,7 +321,7 @@ if [ -z "$app_java_home" ]; then
     cd ..
     path_java_home=`pwd`
     cd "$old_pwd_jvm"
-    test_jvm $path_java_home
+    test_jvm "$path_java_home"
   fi
 fi
 
@@ -302,22 +331,22 @@ if [ -z "$app_java_home" ]; then
   for current_location in $common_jvm_locations
   do
 if [ -z "$app_java_home" ]; then
-  test_jvm $current_location
+  test_jvm "$current_location"
 fi
 
   done
 fi
 
 if [ -z "$app_java_home" ]; then
-  test_jvm $JAVA_HOME
+  test_jvm "$JAVA_HOME"
 fi
 
 if [ -z "$app_java_home" ]; then
-  test_jvm $JDK_HOME
+  test_jvm "$JDK_HOME"
 fi
 
 if [ -z "$app_java_home" ]; then
-  test_jvm $INSTALL4J_JAVA_HOME
+  test_jvm "$INSTALL4J_JAVA_HOME"
 fi
 
 if [ -z "$app_java_home" ]; then
@@ -405,23 +434,18 @@ compiz_workaround
 i4j_classpath="$app_home/.install4j/i4jruntime.jar"
 local_classpath=""
 add_class_path "$i4j_classpath"
-add_class_path "$app_home/.install4j/user.jar"
-for i in `ls "$app_home/.install4j/user" 2> /dev/null | egrep "\.(jar|zip)$"`
-do
-  add_class_path "$app_home/.install4j/user/$i"
-done
 
 vmoptions_val=""
 read_vmoptions "$prg_dir/$progname.vmoptions"
 INSTALL4J_ADD_VM_PARAMS="$INSTALL4J_ADD_VM_PARAMS $vmoptions_val"
 
 
-LD_LIBRARY_PATH="$app_home/.install4j:$LD_LIBRARY_PATH"
-DYLD_LIBRARY_PATH="$app_home/.install4j:$DYLD_LIBRARY_PATH"
-SHLIB_PATH="$app_home/.install4j:$SHLIB_PATH"
-LIBPATH="$app_home/.install4j:$LIBPATH"
-LD_LIBRARYN32_PATH="$app_home/.install4j:$LD_LIBRARYN32_PATH"
-LD_LIBRARYN64_PATH="$app_home/.install4j:$LD_LIBRARYN64_PATH"
+LD_LIBRARY_PATH="$app_home/.install4j:$app_home/.install4j/user:$LD_LIBRARY_PATH"
+DYLD_LIBRARY_PATH="$app_home/.install4j:$app_home/.install4j/user:$DYLD_LIBRARY_PATH"
+SHLIB_PATH="$app_home/.install4j:$app_home/.install4j/user:$SHLIB_PATH"
+LIBPATH="$app_home/.install4j:$app_home/.install4j/user:$LIBPATH"
+LD_LIBRARYN32_PATH="$app_home/.install4j:$app_home/.install4j/user:$LD_LIBRARYN32_PATH"
+LD_LIBRARYN64_PATH="$app_home/.install4j:$app_home/.install4j/user:$LD_LIBRARYN64_PATH"
 export LD_LIBRARY_PATH
 export DYLD_LIBRARY_PATH
 export SHLIB_PATH
@@ -465,7 +489,9 @@ if [ "W$vmov_5" = "W" ]; then
   vmov_5="-Di4jv=0"
 fi
 
+return_code=0
 $INSTALL4J_JAVA_PREFIX exec "$app_java_home/bin/java" -Dinstall4j.jvmDir="$app_java_home" -Dexe4j.moduleName="$prg_dir/$progname" "$vmov_1" "$vmov_2" "$vmov_3" "$vmov_4" "$vmov_5" $INSTALL4J_ADD_VM_PARAMS -classpath "$local_classpath" com.install4j.runtime.launcher.UnixLauncher launch 2bfa42ba "" "" com.install4j.runtime.installer.Uninstaller  "$@"
+return_code=$?
 
 
-exit $?
+exit $return_code
