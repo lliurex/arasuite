@@ -1,0 +1,7 @@
+#
+#Tue Nov 10 12:14:42 CET 2020
+launcher2=/opt/AraSuite/TICO/TICOInterpreterApp
+launcher3=/opt/AraSuite/GalleryManager/GalleryManagerApp
+launcher0=/opt/AraSuite/TICO/TICOApp
+launcher1=/opt/AraSuite/AraWord/AraWordApp
+languageId=es
