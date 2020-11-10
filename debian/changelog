@@ -1,3 +1,10 @@
+arasuite (2.2.4.1+lliurex1) bionic; urgency=medium
+
+  * Upgrading new version to 2.2.4.1 published October 2020
+  * Modify permission in folders to donwload Pictogramas
+
+ -- Daniel Duran <daduve@gmail.com>  Tue, 10 Nov 2020 12:27:32 +0100
+
 arasuite (2.2.4+lliurex4) bionic; urgency=medium
 
   * Initial version for bionic

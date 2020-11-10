@@ -46,6 +46,8 @@ case "$1" in
 	chmod -R 777 ${base_dir}/TICO/templates
 	chmod -R 777 ${base_dir}/GalleryManager/lang
 	chmod -R 777 ${base_dir}/GalleryManager/libs
+	chmod -R 777 ${base_dir}/Araword/current
+	chmod -R 777 ${base_dir}/TICO/current
 	
     ;;
 
