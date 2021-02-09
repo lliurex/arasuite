@@ -1,421 +1,426 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <fileLog>
 <createdFiles>
-<entry name="TICO/libs/images/jai_codec.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/landscape/2x7 (800x326).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-rectangle.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/portrait/2x2 (800x936).brd" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/Gallego_verbs.txt" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/ayuda.txt" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-grid.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/README.txt" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-adjust-width.eps" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/ARASAACIcons/pictograms-change-name.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-round-rect.png" shared="false" uninstallMode="0"/>
-<entry name=".install4j/MessagesDefault" shared="false" uninstallMode="2"/>
-<entry name="GalleryManager/lang/es.properties" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-front.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/validar.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/lang/en.lang" shared="false" uninstallMode="0"/>
-<entry name=".install4j/stats.properties" shared="false" uninstallMode="2"/>
-<entry name="TICO/doc/manual latex/figures/proyecto-android.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/AraWord.jar" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lang/fr.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/sound/jorbis-0.0.15.jar" shared="false" uninstallMode="0"/>
-<entry name=".install4j/i4jparams.conf" shared="false" uninstallMode="2"/>
-<entry name="TICO/doc/manual latex/figures/eliminar-imagen.png" shared="false" uninstallMode="0"/>
 <entry name="TICO/doc/manual latex/figures/cargar-limitacion.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-horizontal-gap.eps" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/lang/fr.properties" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/dsj.dll" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/libs/sqlitejdbc-v056.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-rectangle.eps" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/GalleryManagerApp" shared="false" uninstallMode="0"/>
-<entry name="TICO/lang/va.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbars.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/fonts/DroidSans-Bold.ttf" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-control-cell.png" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/libs/jsse.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/importar.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit-undo.png" shared="false" uninstallMode="0"/>
-<entry name=".install4j/installation.log" shared="false" uninstallMode="0"/>
-<entry name="TICO/TICOInterpreterApp.vmoptions" shared="false" uninstallMode="3"/>
-<entry name="TICO/doc/manual latex/figures/insertar-imagen.png" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/libs/jnet.jar" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/swing-worker-1.1.jar" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/Frances_verbs.txt" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/busqueda-imagenes.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/landscape/1x3 (1280x511).brd" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/libs/activation-jar-1.1.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-line.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/controller-icons/controller-stop.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-oval.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/sqlite/sqlite3-3.6.13.bin" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/handler-cell-controller-22.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-right.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-cell.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/portrait/5x5 (800x936).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/sound/jogg-0.0.7.jar" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/ARASAACIcons/voice-sintesys.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-bottom.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-label.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/board-properties-order-component.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/cell-order.png" shared="false" uninstallMode="0"/>
-<entry name=".install4j/adb5695d.lprop" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/jdom.jar" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/sound/jl1.0.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/portrait/2x1 (800x936).brd" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/lang/de.properties" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-vertical-gap.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit-redo.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-format-apply-background.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/jgraph.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/ventana-validacion-interprete.png" shared="false" uninstallMode="0"/>
-<entry name=".install4j/s_eqt5hw.png" shared="false" uninstallMode="2"/>
-<entry name="AraWord/resources/Catalan_verbs.txt" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/libs/forms-javadoc-1.2.1.jar" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lang/ca.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-adjust-height.eps" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lang/ek.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-text-area.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/board-properties-order-remove.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/usuario-guardado.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/LICENSE.txt" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/lang/br.properties" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/landscape/1x1 (800x326).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-file-save-as.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/terminos-clave.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-format-apply-border.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/sugerencias-tablero.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/ejemplo-busqueda1.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/landscape/1x2 (800x326).brd" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/ARASAACIcons/edit-cut.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/lang/es.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-back.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/controller-icons/controller-undo.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/validar-tableero.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/cell-order-up.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/busqueda-nombre2.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/anyadir-regla.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/sound/javalayer.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-left.png" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/lang/languages.properties" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/landscape/2x7 (1280x511).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/portrait/3x2 (480x608).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-file.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/classicIcons/edit-undo.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/conf/users.xml" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-rectangle.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/landscape/3x7 (1280x511).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/landscape/1x1 (1280x511).brd" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lang/it.lang" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/ARASAACIcons/edit-redo.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-file-new.png" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/libs/jaxb-impl-jar-2.1.9.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-grid.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/menu-pictogramas.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-adjust-width.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/controller-icons/controller-undo-all.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/javacsv.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/TICOApp.vmoptions" shared="false" uninstallMode="3"/>
-<entry name="AraWord/resources/Euskara_verbs.txt" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/classicIcons/pictograms-compound-split-word.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/administracion-usuarios.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-file-print.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-line.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/landscape/1x3 (800x326).brd" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/ARASAACIcons/edit-undo.png" shared="false" uninstallMode="0"/>
-<entry name=".install4j/response.varfile" shared="false" uninstallMode="0"/>
-<entry name="AraWord/.classpath" shared="false" uninstallMode="0"/>
-<entry name=".install4j/inst_jre.cfg" shared="false" uninstallMode="0"/>
-<entry name="TICO/cgjsapi170_x64.dll" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-horizontal-gap.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbars.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/landscape/1x6 (800x326).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/portrait/1x1 (800x936).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit-undo.eps" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/jfontchooser-1.0.5.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/sound/jl1.0.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/landscape/1x5 (1280x511).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/lang/template.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/conf/default_params_resolution.xml" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/sound/javalayer.jar" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/ARASAACIcons/pictograms-compound-split-word.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/classicIcons/edit-redo.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual.pdf" shared="false" uninstallMode="0"/>
-<entry name=".install4j/install.prop" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/classicIcons/pictograms-change-name.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/portrait/5x5 (480x608).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/landscape/1x5 (800x326).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-vertical-center.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-line.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/controller-icons/controller-return.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-oval.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-cell.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/images/jsr94.jar" shared="false" uninstallMode="0"/>
 <entry name="AraWord/resources/imgToolbar/classicIcons/pictograms-insert-image.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/guardar-proyecto.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/administracion-reglas.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-bottom.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/cgjsapi.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/validacion-proyecto.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/Portugues_verbs.txt" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/lang/en.properties" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/abrir-proyecto.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/lang/pt.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-top.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/lang/de.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/landscape/1x4 (800x326).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-file-open.eps" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/classicIcons/file-save-as.png" shared="false" uninstallMode="0"/>
-<entry name=".install4j/user.jar" shared="false" uninstallMode="2"/>
-<entry name="AraWord/lib/AbsoluteLayout.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/controller-icons/controller-home.png" shared="false" uninstallMode="0"/>
-<entry name=".install4j/autoUninstall.0" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/Ingles_verbs.txt" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-vertical-gap.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/board-list-delete.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/cell-dialog-examples-1.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-format-apply-background.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/modificar-imagen.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-label.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/abrir proyecto.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/jdom.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-format.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/borrar-limitacion.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit-redo.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-file-save.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/conf/default_rules.xml" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-adjust-height.png" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/libs/forms-jar-1.2.1.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-text-area.png" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/libs/forms-javadoc-1.2.1.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit-undo.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-left.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/proyecto-normal.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/appframework-1.0.3.jar" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/Euskara_verbs.txt" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/menu-acciones.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/environment/environment.txt" shared="false" uninstallMode="0"/>
 <entry name=".install4j/2bfa42ba.lprop" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/ARASAACIcons/edit-paste.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/board-properties-order-remove.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/interprete.png" shared="false" uninstallMode="0"/>
-<entry name=".install4j/TICOApp.png" shared="false" uninstallMode="2"/>
-<entry name="TICO/doc/manual latex/figures/modo-normal.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/ARASAACIcons/file-open.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-text-apply-font.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/swing-layout-1.0.4.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/editor-example.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/modo-android.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/manual.tex" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/cell-order-up.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/portrait/3x4 (480x608).brd" shared="false" uninstallMode="0"/>
-<entry name=".install4j/i4j_extf_0_1x8bpat.utf8" shared="false" uninstallMode="2"/>
-<entry name="AraWord/lang/va.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/landscape/1x2 (1280x511).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/controller-icons/controller-read.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/portrait/3x4 (800x936).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/portrait/3x3 (480x608).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/sound/tritonus_share.jar" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/libs/forms-source-1.2.1.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-left.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/landscape/3x7 (800x326).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-file-save-as.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit-paste.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/landscape/1x4 (1280x511).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/validacion-interprete.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/conf/AWSystem.conf" shared="false" uninstallMode="0"/>
 <entry name="AraWord/lib/sqlitejdbc-v056.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/board-properties-order-add.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-file.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit-cut.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/utilidades.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/cgjsapi170.dll" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/cargar-usuario.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/lang/it.lang" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lang/gl.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-file-new.eps" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/swing-layout-1.0.4.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/sugerencias-proyecto.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/sound/tritonus_jorbis.jar" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/Italiano_verbs.txt" shared="false" uninstallMode="0"/>
 <entry name="TICO/doc/manual latex/figures/cell-dialog-examples-2.png" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/libs/stax-api-jar-1.0-2.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-file-print.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-line.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/Aleman_verbs.txt" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/portrait/4x4 (480x608).brd" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/sound/jorbis-0.0.15.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/cell-order-down.eps" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lang/en.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit-delete.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit-copy.png" shared="false" uninstallMode="0"/>
+<entry name=".install4j/i4j_extf_1_1x8bpat.utf8" shared="false" uninstallMode="2"/>
+<entry name="AraWord/lib/jfontchooser-1.0.5.jar" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/classicIcons/edit-copy.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/validar-proyecto.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/opciones-interprete.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/images/JAI-LICENSE.txt" shared="false" uninstallMode="0"/>
+<entry name=".install4j/install.prop" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/classicIcons/file-open.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-text-area.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit-delete.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-adjust-height.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/dsj.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-back.eps" shared="false" uninstallMode="0"/>
 <entry name="AraWord/resources/imgToolbar/classicIcons/file-new.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/administracion-limitaciones.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lang/es.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/propiedades-celda-control-2.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/sound/tritonus_mp3.jar" shared="false" uninstallMode="0"/>
-<entry name=".install4j/90d69336.lprop" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/sugerencias-proyecto.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/GalleryManager.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/portrait/3x2 (800x936).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit-redo.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/logo.ico" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/Catalan_verbs.txt" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/lang/ca.properties" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lang/br.lang" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/landscape/1x3 (1280x511).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/fonts/DroidSans-Bold.ttf" shared="false" uninstallMode="0"/>
+<entry name="TICO/cgjsapi170.dll" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/board-list-delete.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-oval.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/landscape/3x7 (800x326).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/portrait/3x3 (800x936).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/cgjsapi170_x64.dll" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/jdom.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-right.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-vertical-center.png" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/lang/en.properties" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/administrar.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/ARASAACIcons/edit-copy.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/portrait/3x4 (800x936).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/dist/tico-bin-w32-e1.5.exe" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/cell-order-down.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/iText-5.0.4.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/abrir-proyecto.png" shared="false" uninstallMode="0"/>
+<entry name=".install4j/aba40fa8.lprop" shared="false" uninstallMode="0"/>
+<entry name="TICO/conf/rules.xml" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/editor-example-original.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/conf/tico.conf" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/borrar-limitacion.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/menu-pictogramas.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/modo-android.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-file-new.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/classicIcons/pictograms-next-image.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/editor-example.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/busqueda-imagenes.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/cell-dialog-examples-3.png" shared="false" uninstallMode="0"/>
+<entry name=".install4j/autoUninstall.1" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-horizontal-center.eps" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/Ingles_verbs.txt" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/landscape/2x7 (1280x511).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-round-rect.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-rectangle.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-bottom.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/CHANGELOG.txt" shared="false" uninstallMode="0"/>
+<entry name="TICO/controller-icons/controller-copy.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-rectangle.eps" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/logo.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbars.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/AbsoluteLayout.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-select.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit-cut.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/javacsv.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/cell-dialog-examples-1.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/validar-tableero.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-grid.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/images/images.db" shared="false" uninstallMode="0"/>
+<entry name=".install4j/user.jar" shared="false" uninstallMode="2"/>
+<entry name="AraWord/lang/fr.lang" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-label.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/conf/params_resolution.xml" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-grid.png" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/GalleryManager.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/images/jai_codec.jar" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/sound/javalayer.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-oval.eps" shared="false" uninstallMode="0"/>
+<entry name=".install4j/i4j_extf_0_1x8bpat.utf8" shared="false" uninstallMode="2"/>
+<entry name=".install4j/i4jruntime.jar" shared="false" uninstallMode="2"/>
+<entry name="AraWord/lang/va.lang" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/board-properties-order-component.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/portrait/0x0 (480x608).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/lang/ca.lang" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-horizontal-gap.eps" shared="false" uninstallMode="0"/>
+<entry name=".install4j/TICOInterpreterApp.png" shared="false" uninstallMode="2"/>
+<entry name="TICO/doc/manual latex/figures/guardar-proyecto.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/cell-order.png" shared="false" uninstallMode="0"/>
 <entry name="TICO/doc/manual latex/figures/board-list-new.eps" shared="false" uninstallMode="0"/>
 <entry name="TICO/LICENSE.txt" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-text-area.eps" shared="false" uninstallMode="0"/>
-<entry name="AraWord/conf/AWUserDefaults.conf" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/menu-acciones.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align.png" shared="false" uninstallMode="0"/>
-<entry name=".install4j/AraWordApp.png" shared="false" uninstallMode="2"/>
-<entry name="AraWord/doc/Manual_AraWord.pdf" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-vertical-center.png" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/GalleryManager.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-cell.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-oval.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/aviso-fila-incompleta.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/portrait/1x1 (480x608).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/JGRAPH-LICENSE.txt" shared="false" uninstallMode="0"/>
-<entry name=".install4j/i4jruntime.jar" shared="false" uninstallMode="2"/>
-<entry name="AraWord/resources/imgToolbar/classicIcons/edit-paste.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-select.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-top.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/sound/tritonus_mp3.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/images/javazoom.jar" shared="false" uninstallMode="0"/>
-<entry name=".install4j/TICOInterpreterApp.png" shared="false" uninstallMode="2"/>
-<entry name="TICO/templates/480x800/landscape/0x0 (800x326).brd" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/ARASAACIcons/file-save-as.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/images/JessML1_0.xsd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-file-open.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lang/de.lang" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lang/pt.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/borrar-usuario.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/cell-dialog-examples-1.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/board-list-delete.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/landscape/1x6 (1280x511).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-label.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/validacion-tablero.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/dist/tico-bin-w32-e1.5.exe" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-format.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/classicIcons/pictograms-next-image.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-file-save.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/cell-dialog-examples-3.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-horizontal-center.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/portrait/4x4 (800x936).brd" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/javazoom.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-round-rect.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/classicIcons/file-open.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/editor-example-original.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/validar-proyecto.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-text-apply-font.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/editor-example.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/Castellano_verbs.txt" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/sound/jogg-0.0.7.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/board-list.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/portrait/3x2 (800x936).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/propiedades-celda-control-1.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/portrait/4x5 (800x936).brd" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/GalleryManagerApp.vmoptions" shared="false" uninstallMode="3"/>
-<entry name="TICO/CHANGELOG.txt" shared="false" uninstallMode="0"/>
-<entry name="TICO/conf/rules.xml" shared="false" uninstallMode="0"/>
-<entry name="uninstall" shared="false" uninstallMode="0"/>
-<entry name="TICO/dist/tico-bin-other-beta1.zip" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions.eps" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/404.jpg" shared="false" uninstallMode="0"/>
-<entry name=".install4j/uninstall.png" shared="false" uninstallMode="2"/>
-<entry name="TICO/controller-icons/controller-copy.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/sound/tritonus_share.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-grid.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/images/jai_core.jar" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/Portugues Brasil_verbs.txt" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/portrait/3x3 (800x936).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/dsj.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit-paste.png" shared="false" uninstallMode="0"/>
-<entry name=".install4j/f9a555e2.lprop" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/cell-order.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-round-rect.eps" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/libs/jcert.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/board-properties-order-add.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/cell-order-down.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit-cut.eps" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/classicIcons/edit-copy.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/fonts/DroidSans.ttf" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/libs/jaxb-impl-source-2.1.9.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/images/jsr94.jar" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/logo.ico" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/cell-dialog-examples-2.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/lang/fr.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-front.eps" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/libs/forms-jar-1.2.1.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/portrait/0x0 (480x608).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/TICOInterpreterApp" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/error-guardar-requisitos.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/opciones-interprete.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/iText-5.0.4.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/landscape/2x3 (1280x511).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit-delete.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/sugerencias-interprete.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/examples/example.awd" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/ARASAACIcons/pictograms-next-image.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit-copy.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/sqlite/sqlite3.dll" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/modificar.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/main.tex" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-rectangle.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/ARASAACIcons/file-new.png" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/libs/jaxb-api-jar-2.1.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/board-list-new.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/ejemplo-busqueda2.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-text-area.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lang/br.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/proyecto-normal.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-oval.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/landscape/2x6 (1280x511).brd" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/libs/jdom.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/board-properties-order-component.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-right.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-cell.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/GalleryManager.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/landscape/0x0 (1280x511).brd" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/ARASAACIcons/edit-copy.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/component-examples-label.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-select.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/tico.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/environment/environment.txt" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/images/jess.jar" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/lang/pt.properties" shared="false" uninstallMode="0"/>
-<entry name="TICO/lang/ca.lang" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/portrait/0x0 (800x936).brd" shared="false" uninstallMode="0"/>
 <entry name="TICO/doc/manual latex/figures/exportar.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/AraWordApp" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/portrait/4x5 (480x608).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/landscape/2x4 (1280x511).brd" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/lang/it.properties" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/validado-interprete.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/busqueda-nombre.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/reglas-predeterminadas.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/images/images.db" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/landscape/2x6 (800x326).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-text-area.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-horizontal-center.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/logo.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/cell-dialog-examples-3.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/sqlite/sqlitejdbc-v054.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-round-rect.eps" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/portrait/2x2 (480x608).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/editor-example-original.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/480x800/portrait/2x1 (480x608).brd" shared="false" uninstallMode="0"/>
-<entry name="TICO/conf/params_resolution.xml" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-edit.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/cell-dialog-examples-4.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-format-apply-border.eps" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/logoSmall.png" shared="false" uninstallMode="0"/>
-<entry name="GalleryManager/lang/ca.properties" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/archive-new-android-22.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/board-properties-order-add.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/dsj.dll" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/sound/jorbis-0.0.15.jar" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/lang/de.properties" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/portrait/2x1 (800x936).brd" shared="false" uninstallMode="0"/>
+<entry name="AraWord/conf/AWUserDefaults.conf" shared="false" uninstallMode="0"/>
 <entry name="TICO/controller-icons/controller-exit.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/administrar.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/board-list.eps" shared="false" uninstallMode="0"/>
-<entry name="AraWord/resources/imgToolbar/ARASAACIcons/pictograms-insert-image.png" shared="false" uninstallMode="0"/>
-<entry name="AraWord/lib/appframework-1.0.3.jar" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-align-back.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/templates/1280x800/landscape/2x5 (1280x511).brd" shared="false" uninstallMode="0"/>
-<entry name=".install4j/aba40fa8.lprop" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/images/JAI-LICENSE.txt" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/toolbar-actions-grid.eps" shared="false" uninstallMode="0"/>
-<entry name=".install4j/GalleryManagerApp.png" shared="false" uninstallMode="2"/>
+<entry name="AraWord/conf/AWSystem.conf" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/sound/tritonus_mp3.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-text-area.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/importar.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/portrait/3x2 (480x608).brd" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/libs/activation-jar-1.1.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit-undo.eps" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/sound/tritonus_share.jar" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/ARASAACIcons/file-new.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/landscape/0x0 (800x326).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/landscape/2x6 (800x326).brd" shared="false" uninstallMode="0"/>
 <entry name="AraWord/resources/imgToolbar/classicIcons/edit-cut.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/conf/tico.conf" shared="false" uninstallMode="0"/>
-<entry name="TICO/doc/manual latex/figures/dialogo-nuevo-android.png" shared="false" uninstallMode="0"/>
-<entry name="TICO/libs/sound/tritonus_jorbis.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/portrait/4x4 (800x936).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/fonts/DroidSans.ttf" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/portrait/1x1 (480x608).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/abrir proyecto.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit-delete.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-adjust-height.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/controller-icons/controller-stop.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/board-list.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-text-area.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-front.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/sqlite/sqlitejdbc-v054.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-round-rect.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-back.png" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/libs/jaxb-impl-jar-2.1.9.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/portrait/4x5 (800x936).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/portrait/3x4 (480x608).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-adjust-width.png" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/libs/forms-source-1.2.1.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit-redo.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-file-save.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/Aleman_verbs.txt" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/classicIcons/pictograms-change-name.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/sqlite/sqlite3-3.6.13.bin" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-file.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/insertar-imagen.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/landscape/0x0 (1280x511).brd" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/libs/sqlitejdbc-v056.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/cgjsapi.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/landscape/2x6 (1280x511).brd" shared="false" uninstallMode="0"/>
+<entry name="AraWord/doc/Manual_AraWord.pdf" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/Gallego_verbs.txt" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/sound/jogg-0.0.7.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/aviso-fila-incompleta.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-right.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-vertical-center.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/sound/jogg-0.0.7.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/validacion-tablero.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/borrar-usuario.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/Frances_verbs.txt" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/handler-cell-controller-22.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/editor-example.eps" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/classicIcons/file-save-as.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/landscape/2x4 (1280x511).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/sound/jl1.0.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-bottom.eps" shared="false" uninstallMode="0"/>
+<entry name=".install4j/i4jparams.conf" shared="false" uninstallMode="2"/>
+<entry name="GalleryManager/lang/es.properties" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/cell-order-up.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/portrait/2x2 (800x936).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/controller-icons/controller-undo-all.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/images/JessML1_0.xsd" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/images/jai_core.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-format-apply-background.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-format-apply-border.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbars.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/cell-dialog-examples-1.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/validado-interprete.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-label.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/LICENSE.txt" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit-cut.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-grid.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/portrait/3x3 (480x608).brd" shared="false" uninstallMode="0"/>
+<entry name="AraWord/AraWord.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-text-apply-font.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-label.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-grid.eps" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/ARASAACIcons/pictograms-insert-image.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/landscape/2x3 (1280x511).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/sound/tritonus_mp3.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-vertical-gap.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/proyecto-android.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lang/ca.lang" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/classicIcons/edit-undo.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/board-properties-order-component.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/cell-order.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-file-open.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/portrait/0x0 (800x936).brd" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/ARASAACIcons/file-open.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/dist/tico-bin-other-beta1.zip" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/propiedades-celda-control-2.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/ARASAACIcons/edit-paste.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/landscape/2x5 (1280x511).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/validacion-interprete.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-horizontal-gap.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/administracion-usuarios.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/TICOInterpreterApp.vmoptions" shared="false" uninstallMode="3"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-cell.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/lang/en.lang" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-line.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/ARASAACIcons/pictograms-change-name.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/propiedades-celda-control-1.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/terminos-clave.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/classicIcons/edit-redo.png" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/libs/jcert.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j/i4j_extf_5_1x8bpat.utf8" shared="false" uninstallMode="2"/>
+<entry name="GalleryManager/GalleryManagerApp" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/lang/pt.properties" shared="false" uninstallMode="0"/>
+<entry name="AraWord/AraWordApp" shared="false" uninstallMode="0"/>
+<entry name="TICO/tico.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/manual.tex" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/ARASAACIcons/edit-cut.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-format.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/landscape/1x4 (800x326).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/sugerencias-tablero.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/ARASAACIcons/edit-redo.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-oval.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/portrait/5x5 (480x608).brd" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/libs/stax-api-jar-1.0-2.jar" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/ARASAACIcons/pictograms-next-image.png" shared="false" uninstallMode="0"/>
+<entry name="uninstall" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/board-list.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-round-rect.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-front.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit.eps" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/ARASAACIcons/edit-undo.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/modo-normal.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/sound/jorbis-0.0.15.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j/inst_jre.cfg" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/libs/jdom.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/controller-icons/controller-home.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-adjust-width.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/modificar-imagen.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-file-save.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/conf/default_params_resolution.xml" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-file.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/portrait/2x1 (480x608).brd" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/Castellano_verbs.txt" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/sqlite/sqlite3.dll" shared="false" uninstallMode="0"/>
+<entry name=".install4j/GalleryManagerApp.png" shared="false" uninstallMode="2"/>
+<entry name="TICO/templates/480x800/landscape/1x1 (800x326).brd" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/libs/jaxb-impl-source-2.1.9.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/TICOInterpreterApp" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/board-properties-order-remove.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/conf/default_rules.xml" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/portrait/2x2 (480x608).brd" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/Portugues Brasil_verbs.txt" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-file-print.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lang/de.lang" shared="false" uninstallMode="0"/>
+<entry name=".install4j/response.varfile" shared="false" uninstallMode="0"/>
+<entry name="AraWord/examples/example.awd" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/administracion-reglas.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/busqueda-nombre2.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/validacion-proyecto.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit-copy.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/main.tex" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/landscape/1x2 (800x326).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/controller-icons/controller-undo.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/404.jpg" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/sound/tritonus_share.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/swing-layout-1.0.4.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-file-save-as.eps" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/Italiano_verbs.txt" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/ARASAACIcons/pictograms-compound-split-word.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit-paste.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual.pdf" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/cell-order-up.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-line.eps" shared="false" uninstallMode="0"/>
+<entry name=".install4j/uninstall.png" shared="false" uninstallMode="2"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-format-apply-background.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/modificar.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-cell.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/lang/pt.lang" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-format-apply-border.png" shared="false" uninstallMode="0"/>
+<entry name=".install4j/s_eqt5hw.png" shared="false" uninstallMode="2"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-label.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/landscape/2x7 (800x326).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/landscape/1x6 (1280x511).brd" shared="false" uninstallMode="0"/>
+<entry name=".install4j/adb5695d.lprop" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-text-apply-font.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/Portugues_verbs.txt" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/landscape/1x5 (800x326).brd" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/ARASAACIcons/voice-sintesys.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/logoSmall.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/controller-icons/controller-return.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-vertical-gap.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lang/es.lang" shared="false" uninstallMode="0"/>
 <entry name="TICO/TICOApp" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/swing-worker-1.1.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-top.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/images/jess.jar" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/lang/languages.properties" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/sound/tritonus_jorbis.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/lang/template.lang" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/administracion-limitaciones.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/portrait/5x5 (800x936).brd" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/ARASAACIcons/file-save-as.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-file-open.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/conf/users.xml" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/landscape/1x6 (800x326).brd" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/javazoom.jar" shared="false" uninstallMode="0"/>
+<entry name="AraWord/.classpath" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-cell.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-line.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/landscape/3x7 (1280x511).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/landscape/1x4 (1280x511).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-left.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/lang/it.lang" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/cell-dialog-examples-2.eps" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/sound/jl1.0.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-format.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/sugerencias-interprete.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lang/gl.lang" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/ejemplo-busqueda1.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/interprete.png" shared="false" uninstallMode="0"/>
+<entry name=".install4j/MessagesDefault" shared="false" uninstallMode="2"/>
+<entry name="GalleryManager/lang/br.properties" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit.png" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/libs/jaxb-api-jar-2.1.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/landscape/1x5 (1280x511).brd" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lang/en.lang" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/usuario-guardado.png" shared="false" uninstallMode="0"/>
+<entry name=".install4j/stats.properties" shared="false" uninstallMode="2"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-control-cell.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/ejemplo-busqueda2.png" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/GalleryManagerApp.vmoptions" shared="false" uninstallMode="3"/>
+<entry name="TICO/doc/manual latex/figures/cargar-usuario.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-oval.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/eliminar-imagen.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/board-properties-order-remove.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/error-guardar-requisitos.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/JGRAPH-LICENSE.txt" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-file-print.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/lang/de.lang" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/validar.png" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/libs/jnet.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/landscape/1x1 (1280x511).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit-copy.eps" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/libs/jsse.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/cell-dialog-examples-4.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/cell-order-down.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/editor-example-original.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/landscape/1x3 (800x326).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/README.txt" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-file-new.eps" shared="false" uninstallMode="0"/>
+<entry name=".install4j/90d69336.lprop" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/cell-dialog-examples-3.eps" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lang/ek.lang" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/classicIcons/edit-paste.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/busqueda-nombre.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/lang/es.lang" shared="false" uninstallMode="0"/>
+<entry name=".install4j/TICOApp.png" shared="false" uninstallMode="2"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions.png" shared="false" uninstallMode="0"/>
+<entry name=".install4j/i4j_extf_3_1x8bpat.utf8" shared="false" uninstallMode="2"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-file-save-as.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-rectangle.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-round-rect.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/480x800/portrait/4x5 (480x608).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-edit-paste.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/board-list-delete.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-line.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lang/pt.lang" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align.eps" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/imgToolbar/classicIcons/pictograms-compound-split-word.png" shared="false" uninstallMode="0"/>
+<entry name="AraWord/resources/ayuda.txt" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-rectangle.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/ventana-validacion-interprete.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/portrait/1x1 (800x936).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/component-examples-cell.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-actions-select.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/images/javazoom.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j/f9a555e2.lprop" shared="false" uninstallMode="0"/>
+<entry name=".install4j/installation.log" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/jdom.jar" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lib/swing-layout-1.0.4.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/TICOApp.vmoptions" shared="false" uninstallMode="3"/>
+<entry name="GalleryManager/lang/fr.properties" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/dialogo-nuevo-android.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/jgraph.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j/i4j_extf_2_1x8bpat.utf8" shared="false" uninstallMode="2"/>
+<entry name=".install4j/i4j_extf_4_1x8bpat.utf8" shared="false" uninstallMode="2"/>
+<entry name="TICO/doc/manual latex/figures/reglas-predeterminadas.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-top.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/sound/javalayer.jar" shared="false" uninstallMode="0"/>
+<entry name="AraWord/lang/it.lang" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/archive-new-android-22.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/lang/va.lang" shared="false" uninstallMode="0"/>
+<entry name="GalleryManager/lang/it.properties" shared="false" uninstallMode="0"/>
+<entry name="TICO/templates/1280x800/landscape/1x2 (1280x511).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/libs/sound/tritonus_jorbis.jar" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/utilidades.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/controller-icons/controller-read.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/anyadir-regla.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/board-properties-order-add.eps" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/toolbar-align-horizontal-center.png" shared="false" uninstallMode="0"/>
+<entry name="TICO/doc/manual latex/figures/board-list-new.png" shared="false" uninstallMode="0"/>
+<entry name=".install4j/AraWordApp.png" shared="false" uninstallMode="2"/>
+<entry name="TICO/templates/480x800/portrait/4x4 (480x608).brd" shared="false" uninstallMode="0"/>
+<entry name="TICO/lang/fr.lang" shared="false" uninstallMode="0"/>
 </createdFiles>
 <createdDirs>
 <entry name="TICO/templates/480x800/portrait" shared="false" uninstallMode="0"/>

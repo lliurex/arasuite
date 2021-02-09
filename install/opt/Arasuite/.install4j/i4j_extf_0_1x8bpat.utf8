@@ -1,4 +1,4 @@
-﻿SetupAppTitle=Instalar
+SetupAppTitle=Instalar
 SetupWindowTitle=Instalador - {0}
 UninstallAppTitle=Desinstalar
 UninstallAppFullTitle=Desinstalar {0}
@@ -27,7 +27,6 @@ ExitSetupMessage=La instalación no está completa. Si termina ahora el programa
 AboutSetupMenuItem=Acerca del instalador ...
 AboutSetupTitle=Acerca del Instalador
 AboutSetupMessage={0} versión {1}\n{2}\n\n{0} home page:\n{3}
-AboutSetupNote=
 ButtonBack=Atrás
 ButtonNext=Siguiente
 ButtonInstall=Instalar
@@ -40,8 +39,7 @@ ButtonNoToAll=No a todo
 ButtonFinish=Finalizar
 ButtonBrowse=Explorar
 ClickNext=Haga clic en siguiente para continuar, o cancelar para salir del instalador.
-BeveledLabel= 
-WelcomeLabel1=Bienvenido al asistente de instalación de {0} 
+WelcomeLabel1=Bienvenido al asistente de instalación de {0}
 WelcomeLabel2=Este programa instalará {0} en su computadora.\n\nEs recomendable que cierre todas las aplicaciones antes de continuar.\n
 WizardPassword=Contraseña
 PasswordLabel1=Esta instalación está protegida con contraseña
@@ -89,6 +87,7 @@ NoUninstallWarningTitle=El componente existe.
 NoUninstallWarning=El Instalador ha detectado que los siguientes componentes ya están instalados en su computador :\n\n{0}\n\nDeseleccionándolos no serán desinstalados.\n\n¿Desea continuar de todas maneras?
 ComponentSize1={0} KB
 ComponentSize2={0} MB
+ComponentSize3={0} GB
 ComponentsDiskSpaceMBLabel=La selección requiere al menos {0} MB de espacio en disco.
 WizardSelectTasks=Seleccione tareas adicionales.
 SelectTasksDesc=¿Qué tareas adicionales deberán ser realizadas?
@@ -211,7 +210,7 @@ UnixDaemonsSubTitle=Por favor, tenga en cuenta los demonios que proporciona {0}.
 UnixDaemonStartStopScriptLabel=Iniciar/detener script para el daemon "{0}":
 MacosStartupItemsTitle=�?tems de Arranque
 MacosStartupItemsSubTitle=Por favor, seleccione los detalles sobre cómo deberán instalarse los ítems de arranque.
-# {0} is the name of the Mac OS X startup item
+# {0} is the name of the macOS startup item
 MacosStartupItemInstallCheckbox=Instalar ítem de arranque "{0}"
 # {0} is the name of the service
 ErrorInstallService=No se ha podido instalar el servicio "{0}"
@@ -493,3 +492,17 @@ updateSchedule.weekly=Semanalmente
 updateSchedule.monthly=Mensualmente
 updateSchedule.never=Nunca
 UnattendedInstallationDir=El directorio de instalación ha sido establecido a {0}.
+UploadingWithFileName=Cargando {0}...
+Uploading=Cargando...
+UploadInterrupted=Se ha interrumpido la carga. ¿Desea intentarlo de nuevo?
+InstallerName=Instalador {0}
+PasswordsDoNotMatch=Las contraseñas no coinciden.
+# Like PasswordLabel above only for a repetition, with colon at the end
+RepeatPasswordLabel=Repetir contraseña:
+UninstallerPreparing=Preparando desinstalación
+# Same as AdminPrivilegesRequired, only use "execute" instead of "install"
+AdminPrivilegesRequiredExecute=Usted debe ingresar como administrador para ejecutar este programa.
+# Same as RootPrivilegesRequired, only use "execute" instead of "install"
+RootPrivilegesRequiredExecute=Debe haber iniciado una sesión como root para ejecutar este programa.
+# Same as StatusRunProgram, only use "execute" instead of "install"
+StatusRunProgramExecute=Finalizando ejecución...

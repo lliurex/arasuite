@@ -1,7 +1,7 @@
 #
-#Fri Nov 10 08:09:16 CET 2017
-launcher3=/home/jose/AraSuite/GalleryManager/GalleryManagerApp
-launcher2=/home/jose/AraSuite/TICO/TICOInterpreterApp
-launcher1=/home/jose/AraSuite/AraWord/AraWordApp
-launcher0=/home/jose/AraSuite/TICO/TICOApp
+#Tue Nov 10 12:14:42 CET 2020
+launcher2=/opt/AraSuite/TICO/TICOInterpreterApp
+launcher3=/opt/AraSuite/GalleryManager/GalleryManagerApp
+launcher0=/opt/AraSuite/TICO/TICOApp
+launcher1=/opt/AraSuite/AraWord/AraWordApp
 languageId=es
