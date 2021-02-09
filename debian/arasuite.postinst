@@ -25,8 +25,9 @@ case "$1" in
     configure)
 	echo "Creating .arasuite folder..."
 	test -d ${base_dir}/.arasuite || mkdir ${base_dir}/.arasuite
-	
-        # Adding permissions
+	test -d ${base_dir}/AraWord/current || mkdir -p ${base_dir}/AraWord/current
+        test -d ${base_dir}/TICO/current || mkdir -p ${base_dir}/TICO/current
+	# Adding permissions
 	echo "Adding permissions..."
 	chmod -R 777 ${base_dir}/.arasuite
 	chmod -R 777 ${base_dir}/AraWord/conf
@@ -46,6 +47,8 @@ case "$1" in
 	chmod -R 777 ${base_dir}/TICO/templates
 	chmod -R 777 ${base_dir}/GalleryManager/lang
 	chmod -R 777 ${base_dir}/GalleryManager/libs
+	chmod -R 777 ${base_dir}/AraWord/current
+	chmod -R 777 ${base_dir}/TICO/current
 	
     ;;
 

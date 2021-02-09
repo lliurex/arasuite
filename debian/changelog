@@ -1,3 +1,9 @@
+arasuite (2.2.4+lliurex15) focal; urgency=medium
+
+  * Updated to last available  version 
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 09 Feb 2021 11:12:20 +0100
+
 arasuite (2.2.4+lliurex14) focal; urgency=medium
 
   * Initial release for focal
